@@ -1,0 +1,9 @@
+{
+ "model": "mlx-community/Qwen3-32B-4bit (resident and streamed)",
+ "stream_vs_resident": "identical: max abs prob diff 0.0, activation diff 0.0, same greedy tokens (single and padded batches)",
+ "new_code_vs_old_stage0_at_B1": {"p_vis": [0.86, 0.86], "L31_5482_tok75": [45.0, 45.0]},
+ "batch_shape_numerics_p_vis_intact": {"B=1": 0.86, "B=2": 0.8744, "B=6": 0.8452, "B=8": 0.8452},
+ "padding": {"p_vis_orig_padded_9": 0.8285, "p_vis_orig_unpadded_B2": 0.8744, "activation_max_abs_diff": 0.39},
+ "pad_token_invariance": "pad ids 151643, 0, 12345 give identical outputs (diff 0.0): the mask hides pads exactly; the padded/unpadded difference comes from shifted positions under bf16 rounding",
+ "hub_removed_p_vis_across_shapes": {"B=1 (old stage0)": 0.1225, "B=2": 0.110, "B=6": 0.1146}
+}

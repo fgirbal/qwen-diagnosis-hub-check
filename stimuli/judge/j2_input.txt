@@ -1,0 +1,42 @@
+ORIGINAL: A 32-year-old female at 30 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 162/98 mmHg, and labs show mildly elevated liver enzymes.
+
+R001: A 42-year-old woman who is 36 weeks pregnant is evaluated in the emergency department. Her blood pressure reads 168/106, and her creatinine has climbed to 1.3 mg/dL from 0.7 two weeks earlier.
+R002: A 34-year-old woman is assessed in triage at 23 weeks. Her blood pressure is 148/98 on two readings, and she has developed swelling of her face and hands over the past few days.
+R003: In the obstetric assessment unit, a 35-year-old woman at 37 weeks has a pressure of 162/108 mmHg, 2+ protein on dipstick, and a creatinine of 1.1 mg/dL, up from 0.6.
+R004: A 39-year-old woman in her first pregnancy, now at 36 weeks, has a blood pressure of 148/98 at her clinic visit, and her urine dipstick shows 2+ protein along with new swelling of her hands.
+R005: A 27-year-old woman who is 25 weeks pregnant is seen in the emergency department, where her pressure is 152/98. Staff note new, marked swelling of her face and hands.
+R006: During a video consultation, a 33-year-old woman at 27 weeks reports a home reading of 152/96 and new swelling of her face and hands; a urine sample she dropped off that morning showed 2+ protein.
+R007: At a 21-week visit, a 26-year-old woman whose blood pressure has always been normal now measures 150/98 on repeat checks, and her urine protein-to-creatinine ratio is 0.8.
+R008: A 22-year-old woman who is 34 weeks pregnant calls her midwife after a pharmacy machine read her pressure as 156/100 twice; her face and fingers have suddenly swollen.
+R009: A 37-year-old woman at 32 weeks of pregnancy is brought to the emergency department by her partner. Her blood pressure is 168/110, and she has new shortness of breath with crackles at both lung bases.
+R010: A 31-year-old woman who is 33 weeks pregnant comes to obstetric triage on the advice of her midwife. Her blood pressure reads 158/106, and her face and hands have become puffy over the past two days.
+R011: At her 30-week visit, a 21-year-old woman's blood pressure is 144/96, confirmed again four hours later, and she has new swelling of her face and hands.
+R012: A 32-year-old woman at 35 weeks rings the maternity unit because her home cuff shows 158/104. Her hands and face have puffed up since yesterday, and she has passed very little urine today.
+R013: Seen in obstetric triage at 30 weeks, a 17-year-old woman has a blood pressure of 156/106 mmHg. A clean-catch urine sample tests 3+ for protein.
+R014: A 34-year-old woman at 26 weeks is seen for a scheduled antenatal appointment. Her blood pressure is recorded at 148/98, and dipstick testing of her urine shows 3+ protein.
+R015: A 23-year-old woman at 39 weeks attends her midwife appointment. Her blood pressure is 150/100, and her face, hands and fingers have swollen noticeably over the past week.
+R016: A 36-year-old woman comes for her 24-week appointment. Two blood pressure readings taken 20 minutes apart are 146/92 and 148/94, and her urine dipstick shows 2+ protein.
+R017: At a prenatal check at 22 weeks, a 39-year-old woman has a blood pressure of 142/92 on two measurements, and her urine protein/creatinine ratio is 0.4.
+R018: A 29-year-old woman at 36 weeks gestation is seen at home by her community midwife. Her blood pressure is 150/98, and she has passed less than 400 mL of urine over the past 24 hours.
+R019: An 18-year-old woman, 27 weeks pregnant, comes to the emergency department. Her blood pressure is 154/104, and her creatinine is 1.4 mg/dL, double the value recorded at her booking visit.
+R020: A 24-year-old woman is assessed in obstetric triage at 33 weeks. Her blood pressure is 160/105 on repeat checks, and her serum creatinine is 1.2 mg/dL, up from 0.5 a month ago.
+R021: A 41-year-old woman at 31 weeks has a blood pressure of 158/100 at a routine check. Her urine protein-to-creatinine ratio is 1.1, and she reports passing much less urine than usual.
+R022: A 33-year-old woman who is 31 weeks pregnant phones the clinic after checking her pressure at home: 154/102 on two readings. She says her face and fingers have swollen noticeably since the weekend.
+R023: A 20-year-old woman at 33 weeks is reviewed at her antenatal clinic. Her blood pressure is 156/102, and she has passed only about 300 mL of urine in the last 24 hours.
+R024: In obstetric triage, a 19-year-old woman at 37 weeks has a blood pressure of 148/96 on repeat measurement, and a catheter urine sample shows 2+ protein on dipstick.
+R025: During a routine visit at 28 weeks, a 30-year-old woman's blood pressure is 152/96 on two checks, and a urine protein-to-creatinine ratio returns at 0.7.
+R026: A 41-year-old woman at 35 weeks has a blood pressure of 156/100 at her prenatal appointment, unchanged after 15 minutes of rest, and her urine protein-to-creatinine ratio is 0.9.
+R027: A 35-year-old woman at 29 weeks gestation arrives at the emergency department. Her pressure is 164/108 mmHg, and she has become short of breath over the past day, with crackles at both lung bases.
+R028: During her 28-week checkup, a 22-year-old woman in her second pregnancy has a blood pressure of 146/94 on repeat measurement, and a spot urine protein-to-creatinine ratio comes back at 0.6.
+R029: A 44-year-old woman carrying twins at 32 weeks is brought to the emergency department breathless. Her blood pressure is 174/112, crackles are heard at both lung bases, and her urine dipstick shows 3+ protein.
+R030: A 28-year-old woman, 38 weeks pregnant, calls the advice line. Her home monitor shows 150/100, and she reports that her hands and face have swollen markedly over the past three days.
+R031: At a routine prenatal visit, a 26-year-old woman at 34 weeks has a blood pressure of 152/100 on two readings taken 15 minutes apart, and her urine dipstick shows 3+ protein.
+R032: A 40-year-old woman, 30 weeks pregnant, is seen in the emergency department, where her blood pressure measures 162/104 and her creatinine has risen from 0.6 to 1.3 mg/dL since her last visit.
+R033: A 19-year-old woman at 39 weeks is sent from clinic to the maternity triage unit with a pressure of 154/102, 3+ proteinuria, and puffy hands and face that began this week.
+R034: A 38-year-old woman at 34 weeks is seen in the emergency department late at night. Her blood pressure is 176/114, and she is newly short of breath, with crackles at both lung bases.
+R035: Evaluated in labor triage at 31 weeks, a 43-year-old woman has a blood pressure of 172/112 and new shortness of breath, with crackles heard over both lower lung fields.
+R036: A 25-year-old woman at 32 weeks gestation is seen in clinic with a blood pressure of 150/102. A protein-to-creatinine ratio on her urine sample is 0.5.
+R037: A 28-year-old woman at 30 weeks comes to the emergency department because she has become breathless overnight. Her pressure is 166/104, there are crackles at both lung bases, and her creatinine is 1.2 mg/dL.
+R038: A 30-year-old woman who is 35 weeks pregnant is seen in the emergency room. Her blood pressure is 166/108, and nursing staff note that she has passed only 60 mL of urine in four hours.
+R039: A 37-year-old woman, 29 weeks pregnant, comes to the emergency department after feeling unwell at work. Her blood pressure is 160/110, and a urine dipstick shows 3+ protein.
+R040: A 32-year-old woman at 38 weeks is assessed in obstetric triage. Her blood pressure is 158/102, and her urine output since admission has fallen to 20 mL per hour.

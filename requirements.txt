@@ -1,0 +1,6 @@
+# Versions used for the reported runs (Python 3.12.11, Apple Silicon). MLX needs an Apple Silicon Mac.
+mlx==0.32.4
+mlx-lm==0.32.2
+numpy==2.5.4
+huggingface_hub==2.2.0
+transformers==5.20.2

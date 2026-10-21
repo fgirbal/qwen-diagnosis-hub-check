@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# The essay's published data is not part of this repository (see README.md, "Reproducing").
+data/published/*.json
+
+# Raw parity-test arrays and other large intermediate files.
+*.npz
+
+# Local environments
+venv/
+.venv/

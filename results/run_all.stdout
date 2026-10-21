@@ -1,0 +1,40 @@
+=== 2026-10-19 23:38:39 hash check
+PREREGISTRATION.md: OK
+stimuli/stimuli.json: OK
+stimuli/judge/JUDGE_REPORT.md: OK
+stimuli/judge/evaluate.py: OK
+stimuli/judge/generator_round0.json: OK
+stimuli/judge/generator_round1_rewrites.json: OK
+stimuli/judge/j1_input.txt: OK
+stimuli/judge/j1_input_r1.txt: OK
+stimuli/judge/j1_output.json: OK
+stimuli/judge/j1_output_r1_only.json: OK
+stimuli/judge/j2_input.txt: OK
+stimuli/judge/j2_output.json: OK
+stimuli/judge/j3_check.py: OK
+stimuli/judge/key2_round0.json: OK
+stimuli/judge/key_round0.json: OK
+stimuli/judge/key_round1.json: OK
+stimuli/judge/merge_round1.py: OK
+stimuli/judge/report_round0.json: OK
+stimuli/judge/report_round1.json: OK
+stimuli/judge/scripted_round0.json: OK
+stimuli/judge/scripted_round1.json: OK
+src/hubcommon.py: OK
+src/s0_validity.py: OK
+src/s1_run.py: OK
+src/s2_analysis.py: OK
+run_all.sh: OK
+data/published/SOURCE.md: OK
+data/published/graph-carousel-hover.json: OK
+data/published/preeclampsia_knockouts.json: OK
+=== 2026-10-19 23:38:39 stage 0
+loaded mlx-community/Qwen3-32B-4bit 9s layers 64 width 25600
+V0b {'p_vis': 0.8600058555603027, 'p_prot': 0.13188615441322327, 'text': 'visual disturbances** (such as blurred vision, photophobia, or scotom', 'published': {'p_vis': 0.903, 'p_prot': 0.0577, 'text': 'visual disturbances** (e.g., blurred vision, photophobia'}, 'pass': True}
+V0e {'spearman': 0.9669751301330248, 'L31_5482_tok75': 45.0, 'published_peak': 46.5, 'pass': True}
+V0c zero {'p_vis': 0.12254855781793594, 'p_prot': 0.0010602530092000961, 'text': 'dark urine**.\n\n### Reasoning:\nThis patient presents with symptoms suggestive of **', 'pass': False}
+V0c zero_pos {'p_vis': 0.13853611052036285, 'p_prot': 0.0010577364591881633, 'text': 'dark urine**.\n\n### Reasoning:\nThis patient presents with symptoms suggestive of **', 'pass': False}
+V0d 20 / 20 C-act p_vis [0.859 0.811 0.845 0.829 0.823 0.898 0.915 0.923 0.86  0.721 0.768 0.828
+ 0.767 0.846 0.859 0.874 0.844 0.843 0.922 0.828]
+gate {'V0a': True, 'V0b': True, 'V0c': False, 'V0d': True, 'V0e': True} -> FAIL | V0f False | mode zero | K 20 | est h 5.06 | /Users/francisco/Library/Mobile Documents/com~apple~CloudDocs/Docs/Projects/preeclampsia-hub/results/stage0.json
+=== 2026-10-19 23:40:01 stage 0 gate FAILED: stopping

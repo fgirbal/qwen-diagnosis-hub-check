@@ -1,0 +1,205 @@
+{
+ "original_dx": "Preeclampsia with severe features (evolving HELLP syndrome)",
+ "items": {
+  "R001": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "36 wk, BP 168/106, new creatinine rise to 1.3 (renal insufficiency)."
+  },
+  "R002": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "23 wk, BP 148/98, new facial/hand swelling; weak but supportive, early gestation."
+  },
+  "R003": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "37 wk, BP 162/108, 2+ proteinuria, creatinine rise."
+  },
+  "R004": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "36 wk, BP 148/98, 2+ protein, new hand swelling."
+  },
+  "R005": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "25 wk, BP 152/98, marked new facial/hand swelling; edema-only support."
+  },
+  "R006": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "27 wk, BP 152/96, 2+ protein, new face/hand swelling."
+  },
+  "R007": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "21 wk, new BP 150/98, UPCR 0.8; early but beyond 20 weeks."
+  },
+  "R008": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "34 wk, BP 156/100 twice, sudden face/finger swelling; edema-only support."
+  },
+  "R009": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "32 wk, BP 168/110, new dyspnea and bibasilar crackles (pulmonary edema)."
+  },
+  "R010": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "33 wk, BP 158/106, new facial/hand puffiness."
+  },
+  "R011": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "30 wk, BP 144/96 persistent, new face/hand swelling; edema-only support."
+  },
+  "R012": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "35 wk, BP 158/104, facial/hand swelling, oliguria."
+  },
+  "R013": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "30 wk, BP 156/106, 3+ proteinuria."
+  },
+  "R014": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "26 wk, BP 148/98, 3+ proteinuria."
+  },
+  "R015": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "39 wk, BP 150/100, marked face/hand swelling; edema-only support."
+  },
+  "R016": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "24 wk, BP 146/92 and 148/94, 2+ proteinuria."
+  },
+  "R017": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "22 wk, BP 142/92 twice, UPCR 0.4 (above 0.3 threshold)."
+  },
+  "R018": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "36 wk, BP 150/98, oliguria under 400 mL/24h."
+  },
+  "R019": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "27 wk, BP 154/104, creatinine doubled from baseline."
+  },
+  "R020": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "33 wk, BP 160/105, creatinine rise 0.5 to 1.2."
+  },
+  "R021": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "31 wk, BP 158/100, UPCR 1.1, oliguria."
+  },
+  "R022": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "31 wk, BP 154/102 twice, marked face/finger swelling."
+  },
+  "R023": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "33 wk, BP 156/102, oliguria about 300 mL/24h."
+  },
+  "R024": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "37 wk, BP 148/96, 2+ proteinuria on catheter sample."
+  },
+  "R025": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "28 wk, BP 152/96 twice, UPCR 0.7."
+  },
+  "R026": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "35 wk, BP 156/100 sustained, UPCR 0.9."
+  },
+  "R027": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "29 wk, BP 164/108, dyspnea with bibasilar crackles (pulmonary edema)."
+  },
+  "R028": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "28 wk, BP 146/94 repeated, UPCR 0.6."
+  },
+  "R029": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "Twins 32 wk, BP 174/112, pulmonary edema signs, 3+ protein."
+  },
+  "R030": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "38 wk, BP 150/100, marked face/hand swelling; edema-only support."
+  },
+  "R031": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "34 wk, BP 152/100 twice, 3+ proteinuria."
+  },
+  "R032": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "30 wk, BP 162/104, creatinine doubled 0.6 to 1.3."
+  },
+  "R033": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "39 wk, BP 154/102, 3+ proteinuria, new face/hand swelling."
+  },
+  "R034": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "34 wk, BP 176/114, new dyspnea and bibasilar crackles (pulmonary edema)."
+  },
+  "R035": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "31 wk, BP 172/112, new dyspnea and bibasilar crackles (pulmonary edema)."
+  },
+  "R036": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "32 wk, BP 150/102, UPCR 0.5."
+  },
+  "R037": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "30 wk, BP 166/104, pulmonary edema signs, creatinine 1.2."
+  },
+  "R038": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "35 wk, BP 166/108, oliguria (60 mL in 4 hours)."
+  },
+  "R039": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "29 wk, BP 160/110, 3+ proteinuria."
+  },
+  "R040": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "38 wk, BP 158/102, oliguria 20 mL/h."
+  }
+ }
+}

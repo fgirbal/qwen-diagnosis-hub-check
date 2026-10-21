@@ -1,0 +1,205 @@
+=== 2026-10-19 23:59:00 waiting for the 8-bit download (free disk 49 GiB)
+=== 2026-10-20 00:55:03 8-bit download process finished; verifying / resuming
+=== 2026-10-20 00:55:07 hash check
+=== 2026-10-20 00:55:07 stage 0 (mlx-community/Qwen3-32B-8bit, streamed)
+loaded mlx-community/Qwen3-32B-8bit 1s layers 64 width 25600
+V0b {'p_vis': 0.911554217338562, 'p_prot': 0.04538361355662346, 'text': 'visual disturbances** (e.g., blurred vision, photophobia, scotom', 'published': {'p_vis': 0.903, 'p_prot': 0.0577, 'text': 'visual disturbances** (e.g., blurred vision, photophobia'}, 'pass': True}
+V0e {'spearman': 0.9987855722600023, 'L31_5482_tok75': 47.25, 'published_peak': 46.5, 'pass': True}
+V0c zero {'p_vis': 0.0004834181163460016, 'p_prot': 5.716647137887776e-06, 'text': 'pruritus (itching)**, particularly **without a rash**.\n\n###', 'pass': True}
+V0d 20 / 20 C-act p_vis [0.919 0.887 0.906 0.908 0.894 0.833 0.84  0.903 0.894 0.912 0.873 0.933
+ 0.919 0.896 0.856 0.905 0.922 0.883 0.853 0.867]
+gate {'V0a': True, 'V0b': True, 'V0c': True, 'V0d': True, 'V0e': True} -> PASS | V0f True | mode zero | K 20 | est h 4.76 | /Users/francisco/Library/Mobile Documents/com~apple~CloudDocs/Docs/Projects/preeclampsia-hub/results/8bit/stage0.json
+=== 2026-10-20 01:05:24 debug run (stand-in group)
+loaded 1s | stream True | cases 40 | done 0 | K 5 | mode zero | cases per batch 21
+  S0-01 | p_vis intact 0.895 target 0.249 | dx hellp->other
+  S0-02 | p_vis intact 0.815 target 0.370 | dx other->preeclampsia_family
+  S0-03 | p_vis intact 0.889 target 0.932 | dx other->other
+  S0-04 | p_vis intact 0.674 target 0.287 | dx other->other
+  S0-05 | p_vis intact 0.781 target 0.088 | dx hellp->preeclampsia_family
+  S0-06 | p_vis intact 0.879 target 0.142 | dx hellp->other
+  S0-07 | p_vis intact 0.874 target 0.848 | dx hellp->preeclampsia_family
+  S0-08 | p_vis intact 0.914 target 0.708 | dx preeclampsia_family->hellp
+  S0-09 | p_vis intact 0.949 target 0.196 | dx hellp->other
+  S0-10 | p_vis intact 0.849 target 0.455 | dx hellp->other
+  S1-03 | p_vis intact 0.628 target 0.494 | dx preeclampsia_family->preeclampsia_family
+  S1-06 | p_vis intact 0.917 target 0.806 | dx preeclampsia_family->other
+  S1-13 | p_vis intact 0.603 target 0.350 | dx preeclampsia_family->preeclampsia_family
+  S1-15 | p_vis intact 0.850 target 0.728 | dx preeclampsia_family->other
+  S1-17 | p_vis intact 0.698 target 0.380 | dx other->other
+  S1-28 | p_vis intact 0.772 target 0.563 | dx other->other
+  S1-31 | p_vis intact 0.969 target 0.942 | dx preeclampsia_family->preeclampsia_family
+  S1-33 | p_vis intact 0.809 target 0.806 | dx other->other
+  S1-36 | p_vis intact 0.673 target 0.557 | dx preeclampsia_family->preeclampsia_family
+  S1-40 | p_vis intact 0.842 target 0.686 | dx preeclampsia_family->preeclampsia_family
+  S2-06 | p_vis intact 0.088 target 0.000 | dx other->other
+batch 1: 21 cases in 1043s | 21/40 | 17.4 min elapsed, ~16 min left
+  S2-07 | p_vis intact 0.062 target 0.000 | dx other->other
+  S2-09 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-10 | p_vis intact 0.009 target 0.000 | dx other->other
+  S2-12 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-16 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-17 | p_vis intact 0.021 target 0.003 | dx other->other
+  S2-18 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-22 | p_vis intact 0.002 target 0.000 | dx other->other
+  S2-28 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-03 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-08 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-09 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-11 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-12 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-20 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-24 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-26 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-28 | p_vis intact 0.645 target 0.638 | dx other->other
+  S3-29 | p_vis intact 0.002 target 0.001 | dx other->other
+batch 2: 19 cases in 1079s | 40/40 | 35.4 min elapsed, ~0 min left
+done /Users/francisco/Library/Mobile Documents/com~apple~CloudDocs/Docs/Projects/preeclampsia-hub/results/8bit/run_debug.jsonl 35.4 min
+{"P1": "underpowered", "P2": "underpowered", "P3": "not_specific", "decision": "mixed"} -> /Users/francisco/Library/Mobile Documents/com~apple~CloudDocs/Docs/Projects/preeclampsia-hub/results/8bit/decisions_debug.json
+=== 2026-10-20 01:40:49 main run
+loaded 1s | stream True | cases 120 | done 0 | K 20 | mode zero | cases per batch 6
+  S0-01 | p_vis intact 0.909 target 0.001 | dx hellp->other
+  S0-02 | p_vis intact 0.802 target 0.000 | dx other->other
+  S0-03 | p_vis intact 0.899 target 0.017 | dx other->other
+  S0-04 | p_vis intact 0.637 target 0.001 | dx other->other
+  S0-05 | p_vis intact 0.817 target 0.004 | dx hellp->other
+  S0-06 | p_vis intact 0.911 target 0.001 | dx preeclampsia_family->other
+batch 1: 6 cases in 905s | 6/120 | 15.1 min elapsed, ~286 min left
+  S0-07 | p_vis intact 0.875 target 0.131 | dx hellp->preeclampsia_family
+  S0-08 | p_vis intact 0.931 target 0.009 | dx preeclampsia_family->hellp
+  S0-09 | p_vis intact 0.943 target 0.002 | dx hellp->preeclampsia_family
+  S0-10 | p_vis intact 0.877 target 0.004 | dx hellp->other
+  S1-01 | p_vis intact 0.797 target 0.237 | dx preeclampsia_family->preeclampsia_family
+  S1-02 | p_vis intact 0.756 target 0.094 | dx preeclampsia_family->preeclampsia_family
+batch 2: 6 cases in 951s | 12/120 | 30.9 min elapsed, ~278 min left
+  S1-03 | p_vis intact 0.616 target 0.262 | dx preeclampsia_family->preeclampsia_family
+  S1-04 | p_vis intact 0.610 target 0.456 | dx other->other
+  S1-05 | p_vis intact 0.906 target 0.101 | dx preeclampsia_family->preeclampsia_family
+  S1-06 | p_vis intact 0.909 target 0.313 | dx preeclampsia_family->preeclampsia_family
+  S1-07 | p_vis intact 0.565 target 0.103 | dx preeclampsia_family->preeclampsia_family
+  S1-08 | p_vis intact 0.553 target 0.108 | dx preeclampsia_family->preeclampsia_family
+batch 3: 6 cases in 968s | 18/120 | 47.1 min elapsed, ~267 min left
+  S1-09 | p_vis intact 0.757 target 0.040 | dx preeclampsia_family->preeclampsia_family
+  S1-10 | p_vis intact 0.507 target 0.227 | dx other->other
+  S1-11 | p_vis intact 0.893 target 0.310 | dx preeclampsia_family->preeclampsia_family
+  S1-12 | p_vis intact 0.814 target 0.146 | dx preeclampsia_family->preeclampsia_family
+  S1-13 | p_vis intact 0.625 target 0.435 | dx preeclampsia_family->preeclampsia_family
+  S1-14 | p_vis intact 0.945 target 0.798 | dx preeclampsia_family->preeclampsia_family
+batch 4: 6 cases in 998s | 24/120 | 63.7 min elapsed, ~255 min left
+  S1-15 | p_vis intact 0.852 target 0.527 | dx preeclampsia_family->preeclampsia_family
+  S1-16 | p_vis intact 0.839 target 0.104 | dx preeclampsia_family->preeclampsia_family
+  S1-17 | p_vis intact 0.680 target 0.135 | dx other->other
+  S1-18 | p_vis intact 0.651 target 0.013 | dx preeclampsia_family->preeclampsia_family
+  S1-19 | p_vis intact 0.670 target 0.500 | dx other->other
+  S1-20 | p_vis intact 0.830 target 0.275 | dx preeclampsia_family->other
+batch 5: 6 cases in 953s | 30/120 | 79.6 min elapsed, ~239 min left
+  S1-21 | p_vis intact 0.849 target 0.441 | dx preeclampsia_family->preeclampsia_family
+  S1-22 | p_vis intact 0.522 target 0.140 | dx other->other
+  S1-23 | p_vis intact 0.679 target 0.275 | dx preeclampsia_family->preeclampsia_family
+  S1-24 | p_vis intact 0.731 target 0.055 | dx preeclampsia_family->preeclampsia_family
+  S1-25 | p_vis intact 0.663 target 0.413 | dx preeclampsia_family->preeclampsia_family
+  S1-26 | p_vis intact 0.880 target 0.272 | dx preeclampsia_family->other
+batch 6: 6 cases in 974s | 36/120 | 95.8 min elapsed, ~224 min left
+  S1-27 | p_vis intact 0.541 target 0.396 | dx other->other
+  S1-28 | p_vis intact 0.766 target 0.477 | dx other->other
+  S1-29 | p_vis intact 0.835 target 0.694 | dx preeclampsia_family->other
+  S1-30 | p_vis intact 0.667 target 0.435 | dx preeclampsia_family->preeclampsia_family
+  S1-31 | p_vis intact 0.966 target 0.706 | dx preeclampsia_family->preeclampsia_family
+  S1-32 | p_vis intact 0.472 target 0.019 | dx preeclampsia_family->preeclampsia_family
+batch 7: 6 cases in 955s | 42/120 | 111.7 min elapsed, ~208 min left
+  S1-33 | p_vis intact 0.797 target 0.814 | dx other->other
+  S1-34 | p_vis intact 0.868 target 0.155 | dx preeclampsia_family->preeclampsia_family
+  S1-35 | p_vis intact 0.764 target 0.620 | dx preeclampsia_family->preeclampsia_family
+  S1-36 | p_vis intact 0.664 target 0.369 | dx preeclampsia_family->preeclampsia_family
+  S1-37 | p_vis intact 0.077 target 0.000 | dx preeclampsia_family->preeclampsia_family
+  S1-38 | p_vis intact 0.915 target 0.234 | dx preeclampsia_family->preeclampsia_family
+batch 8: 6 cases in 1004s | 48/120 | 128.5 min elapsed, ~193 min left
+  S1-39 | p_vis intact 0.488 target 0.209 | dx preeclampsia_family->preeclampsia_family
+  S1-40 | p_vis intact 0.819 target 0.625 | dx preeclampsia_family->preeclampsia_family
+  S2-01 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-02 | p_vis intact 0.003 target 0.000 | dx other->other
+  S2-03 | p_vis intact 0.047 target 0.001 | dx other->other
+  S2-04 | p_vis intact 0.014 target 0.000 | dx other->other
+batch 9: 6 cases in 1196s | 54/120 | 148.4 min elapsed, ~181 min left
+  S2-05 | p_vis intact 0.002 target 0.001 | dx other->other
+  S2-06 | p_vis intact 0.073 target 0.000 | dx other->other
+  S2-07 | p_vis intact 0.062 target 0.000 | dx other->other
+  S2-08 | p_vis intact 0.062 target 0.004 | dx other->other
+  S2-09 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-10 | p_vis intact 0.009 target 0.000 | dx other->other
+batch 10: 6 cases in 1208s | 60/120 | 168.5 min elapsed, ~169 min left
+  S2-11 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-12 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-13 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-14 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-15 | p_vis intact 0.014 target 0.002 | dx other->other
+  S2-16 | p_vis intact 0.000 target 0.000 | dx other->other
+batch 11: 6 cases in 1164s | 66/120 | 188.0 min elapsed, ~154 min left
+  S2-17 | p_vis intact 0.016 target 0.000 | dx other->other
+  S2-18 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-19 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-20 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-21 | p_vis intact 0.001 target 0.000 | dx other->other
+  S2-22 | p_vis intact 0.002 target 0.000 | dx other->other
+batch 12: 6 cases in 1143s | 72/120 | 207.0 min elapsed, ~138 min left
+  S2-23 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-24 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-25 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-26 | p_vis intact 0.005 target 0.001 | dx other->other
+  S2-27 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-28 | p_vis intact 0.000 target 0.000 | dx other->other
+batch 13: 6 cases in 1081s | 78/120 | 225.0 min elapsed, ~121 min left
+  S2-29 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-30 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-31 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-32 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-33 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-34 | p_vis intact 0.000 target 0.000 | dx other->other
+batch 14: 6 cases in 1104s | 84/120 | 243.4 min elapsed, ~104 min left
+  S2-35 | p_vis intact 0.001 target 0.000 | dx other->other
+  S2-36 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-37 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-38 | p_vis intact 0.001 target 0.001 | dx other->other
+  S2-39 | p_vis intact 0.000 target 0.000 | dx other->other
+  S2-40 | p_vis intact 0.000 target 0.000 | dx other->other
+batch 15: 6 cases in 1108s | 90/120 | 261.9 min elapsed, ~87 min left
+  S3-01 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-02 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-03 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-04 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-05 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-06 | p_vis intact 0.000 target 0.000 | dx other->other
+batch 16: 6 cases in 1014s | 96/120 | 278.8 min elapsed, ~70 min left
+  S3-07 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-08 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-09 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-10 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-11 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-12 | p_vis intact 0.000 target 0.000 | dx other->other
+batch 17: 6 cases in 1029s | 102/120 | 295.9 min elapsed, ~52 min left
+  S3-13 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-14 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-15 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-16 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-17 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-18 | p_vis intact 0.779 target 0.327 | dx other->other
+batch 18: 6 cases in 1018s | 108/120 | 312.9 min elapsed, ~35 min left
+  S3-19 | p_vis intact 0.492 target 0.525 | dx other->other
+  S3-20 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-21 | p_vis intact 0.001 target 0.000 | dx other->other
+  S3-22 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-23 | p_vis intact 0.160 target 0.141 | dx other->other
+  S3-24 | p_vis intact 0.000 target 0.000 | dx other->other
+batch 19: 6 cases in 994s | 114/120 | 329.5 min elapsed, ~17 min left
+  S3-25 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-26 | p_vis intact 0.000 target 0.000 | dx other->other
+  S3-27 | p_vis intact 0.013 target 0.011 | dx other->other
+  S3-28 | p_vis intact 0.648 target 0.601 | dx other->other
+  S3-29 | p_vis intact 0.002 target 0.001 | dx other->other
+  S3-30 | p_vis intact 0.000 target 0.000 | dx other->other
+batch 20: 6 cases in 968s | 120/120 | 345.6 min elapsed, ~0 min left
+done /Users/francisco/Library/Mobile Documents/com~apple~CloudDocs/Docs/Projects/preeclampsia-hub/results/8bit/run_main.jsonl 346.0 min
+=== 2026-10-20 07:26:52 analysis
+{"P1": "diagnosis", "P2": "intermediate", "P3": "not_specific", "P4": "pass", "decision": "mixed"} -> /Users/francisco/Library/Mobile Documents/com~apple~CloudDocs/Docs/Projects/preeclampsia-hub/results/8bit/decisions_main.json
+=== 2026-10-20 07:26:54 done
+=== 2026-10-20 07:26:54 8-bit pipeline exit code 0
+=== 2026-10-20 07:26:54 finished (no bf16 needed)

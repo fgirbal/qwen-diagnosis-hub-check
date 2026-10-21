@@ -1,0 +1,1393 @@
+{
+ "cases": [
+  {
+   "id": "S0-01",
+   "set": "S0",
+   "case": "A 32-year-old female at 30 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 162/98 mmHg, and labs show mildly elevated liver enzymes.",
+   "intended": "preeclampsia",
+   "bp_text": "162/98 mmHg"
+  },
+  {
+   "id": "S0-02",
+   "set": "S0",
+   "case": "A 27-year-old female at 34 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 158/104 mmHg, and labs show mildly elevated liver enzymes.",
+   "intended": "preeclampsia",
+   "bp_text": "158/104 mmHg"
+  },
+  {
+   "id": "S0-03",
+   "set": "S0",
+   "case": "A 38-year-old female at 28 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 170/108 mmHg, and labs show mildly elevated liver enzymes.",
+   "intended": "preeclampsia",
+   "bp_text": "170/108 mmHg"
+  },
+  {
+   "id": "S0-04",
+   "set": "S0",
+   "case": "A 24-year-old female at 32 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 154/100 mmHg, and labs show mildly elevated liver enzymes.",
+   "intended": "preeclampsia",
+   "bp_text": "154/100 mmHg"
+  },
+  {
+   "id": "S0-05",
+   "set": "S0",
+   "case": "A 41-year-old female at 36 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 166/96 mmHg, and labs show mildly elevated liver enzymes.",
+   "intended": "preeclampsia",
+   "bp_text": "166/96 mmHg"
+  },
+  {
+   "id": "S0-06",
+   "set": "S0",
+   "case": "A 19-year-old female at 26 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 148/94 mmHg, and labs show mildly elevated liver enzymes.",
+   "intended": "preeclampsia",
+   "bp_text": "148/94 mmHg"
+  },
+  {
+   "id": "S0-07",
+   "set": "S0",
+   "case": "A 35-year-old female at 31 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 174/110 mmHg, and labs show mildly elevated liver enzymes.",
+   "intended": "preeclampsia",
+   "bp_text": "174/110 mmHg"
+  },
+  {
+   "id": "S0-08",
+   "set": "S0",
+   "case": "A 29-year-old female at 37 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 160/102 mmHg, and labs show mildly elevated liver enzymes.",
+   "intended": "preeclampsia",
+   "bp_text": "160/102 mmHg"
+  },
+  {
+   "id": "S0-09",
+   "set": "S0",
+   "case": "A 22-year-old female at 25 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 152/98 mmHg, and labs show mildly elevated liver enzymes.",
+   "intended": "preeclampsia",
+   "bp_text": "152/98 mmHg"
+  },
+  {
+   "id": "S0-10",
+   "set": "S0",
+   "case": "A 33-year-old female at 29 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 168/106 mmHg, and labs show mildly elevated liver enzymes.",
+   "intended": "preeclampsia",
+   "bp_text": "168/106 mmHg"
+  },
+  {
+   "id": "S1-01",
+   "set": "S1",
+   "case": "At a routine prenatal visit, a 26-year-old woman at 34 weeks has a blood pressure of 152/100 on two readings taken 15 minutes apart, and her urine dipstick shows 3+ protein.",
+   "intended": "preeclampsia",
+   "bp_text": "152/100"
+  },
+  {
+   "id": "S1-02",
+   "set": "S1",
+   "case": "A 31-year-old woman who is 33 weeks pregnant comes to obstetric triage on the advice of her midwife. Her blood pressure reads 158/106, and her face and hands have become puffy over the past two days.",
+   "intended": "preeclampsia",
+   "bp_text": "158/106"
+  },
+  {
+   "id": "S1-03",
+   "set": "S1",
+   "case": "A 37-year-old woman at 32 weeks of pregnancy is brought to the emergency department by her partner. Her blood pressure is 168/110, and she has new shortness of breath with crackles at both lung bases.",
+   "intended": "preeclampsia",
+   "bp_text": "168/110"
+  },
+  {
+   "id": "S1-04",
+   "set": "S1",
+   "case": "During her 28-week checkup, a 22-year-old woman in her second pregnancy has a blood pressure of 146/94 on repeat measurement, and a spot urine protein-to-creatinine ratio comes back at 0.6.",
+   "intended": "preeclampsia",
+   "bp_text": "146/94"
+  },
+  {
+   "id": "S1-05",
+   "set": "S1",
+   "case": "A 40-year-old woman, 30 weeks pregnant, is seen in the emergency department, where her blood pressure measures 162/104 and her creatinine has risen from 0.6 to 1.3 mg/dL since her last visit.",
+   "intended": "preeclampsia",
+   "bp_text": "162/104"
+  },
+  {
+   "id": "S1-06",
+   "set": "S1",
+   "case": "A 29-year-old woman at 36 weeks gestation is seen at home by her community midwife. Her blood pressure is 150/98, and she has passed less than 400 mL of urine over the past 24 hours.",
+   "intended": "preeclampsia",
+   "bp_text": "150/98"
+  },
+  {
+   "id": "S1-07",
+   "set": "S1",
+   "case": "A 33-year-old woman who is 31 weeks pregnant phones the clinic after checking her pressure at home: 154/102 on two readings. She says her face and fingers have swollen noticeably since the weekend.",
+   "intended": "preeclampsia",
+   "bp_text": "154/102"
+  },
+  {
+   "id": "S1-08",
+   "set": "S1",
+   "case": "In obstetric triage, a 19-year-old woman at 37 weeks has a blood pressure of 148/96 on repeat measurement, and a catheter urine sample shows 2+ protein on dipstick.",
+   "intended": "preeclampsia",
+   "bp_text": "148/96"
+  },
+  {
+   "id": "S1-09",
+   "set": "S1",
+   "case": "A 35-year-old woman at 29 weeks gestation arrives at the emergency department. Her pressure is 164/108 mmHg, and she has become short of breath over the past day, with crackles at both lung bases.",
+   "intended": "preeclampsia",
+   "bp_text": "164/108 mmHg"
+  },
+  {
+   "id": "S1-10",
+   "set": "S1",
+   "case": "A 41-year-old woman at 35 weeks has a blood pressure of 156/100 at her prenatal appointment, unchanged after 15 minutes of rest, and her urine protein-to-creatinine ratio is 0.9.",
+   "intended": "preeclampsia",
+   "bp_text": "156/100"
+  },
+  {
+   "id": "S1-11",
+   "set": "S1",
+   "case": "A 24-year-old woman is assessed in obstetric triage at 33 weeks. Her blood pressure is 160/105 on repeat checks, and her serum creatinine is 1.2 mg/dL, up from 0.5 a month ago.",
+   "intended": "preeclampsia",
+   "bp_text": "160/105"
+  },
+  {
+   "id": "S1-12",
+   "set": "S1",
+   "case": "A 28-year-old woman, 38 weeks pregnant, calls the advice line. Her home monitor shows 150/100, and she reports that her hands and face have swollen markedly over the past three days.",
+   "intended": "preeclampsia",
+   "bp_text": "150/100"
+  },
+  {
+   "id": "S1-13",
+   "set": "S1",
+   "case": "A 34-year-old woman at 26 weeks is seen for a scheduled antenatal appointment. Her blood pressure is recorded at 148/98, and dipstick testing of her urine shows 3+ protein.",
+   "intended": "preeclampsia",
+   "bp_text": "148/98"
+  },
+  {
+   "id": "S1-14",
+   "set": "S1",
+   "case": "A 30-year-old woman who is 35 weeks pregnant is seen in the emergency room. Her blood pressure is 166/108, and nursing staff note that she has passed only 60 mL of urine in four hours.",
+   "intended": "preeclampsia",
+   "bp_text": "166/108"
+  },
+  {
+   "id": "S1-15",
+   "set": "S1",
+   "case": "At her 30-week visit, a 21-year-old woman's blood pressure is 144/96, confirmed again four hours later, and she has new swelling of her face and hands.",
+   "intended": "preeclampsia",
+   "bp_text": "144/96"
+  },
+  {
+   "id": "S1-16",
+   "set": "S1",
+   "case": "Evaluated in labor triage at 31 weeks, a 43-year-old woman has a blood pressure of 172/112 and new shortness of breath, with crackles heard over both lower lung fields.",
+   "intended": "preeclampsia",
+   "bp_text": "172/112"
+  },
+  {
+   "id": "S1-17",
+   "set": "S1",
+   "case": "A 25-year-old woman at 32 weeks gestation is seen in clinic with a blood pressure of 150/102. A protein-to-creatinine ratio on her urine sample is 0.5.",
+   "intended": "preeclampsia",
+   "bp_text": "150/102"
+  },
+  {
+   "id": "S1-18",
+   "set": "S1",
+   "case": "An 18-year-old woman, 27 weeks pregnant, comes to the emergency department. Her blood pressure is 154/104, and her creatinine is 1.4 mg/dL, double the value recorded at her booking visit.",
+   "intended": "preeclampsia",
+   "bp_text": "154/104"
+  },
+  {
+   "id": "S1-19",
+   "set": "S1",
+   "case": "A 36-year-old woman comes for her 24-week appointment. Two blood pressure readings taken 20 minutes apart are 146/92 and 148/94, and her urine dipstick shows 2+ protein.",
+   "intended": "preeclampsia",
+   "bp_text": "146/92 and 148/94"
+  },
+  {
+   "id": "S1-20",
+   "set": "S1",
+   "case": "A 32-year-old woman at 38 weeks is assessed in obstetric triage. Her blood pressure is 158/102, and her urine output since admission has fallen to 20 mL per hour.",
+   "intended": "preeclampsia",
+   "bp_text": "158/102"
+  },
+  {
+   "id": "S1-21",
+   "set": "S1",
+   "case": "A 27-year-old woman who is 25 weeks pregnant is seen in the emergency department, where her pressure is 152/98. Staff note new, marked swelling of her face and hands.",
+   "intended": "preeclampsia",
+   "bp_text": "152/98"
+  },
+  {
+   "id": "S1-22",
+   "set": "S1",
+   "case": "At a prenatal check at 22 weeks, a 39-year-old woman has a blood pressure of 142/92 on two measurements, and her urine protein/creatinine ratio is 0.4.",
+   "intended": "preeclampsia",
+   "bp_text": "142/92"
+  },
+  {
+   "id": "S1-23",
+   "set": "S1",
+   "case": "A 38-year-old woman at 34 weeks is seen in the emergency department late at night. Her blood pressure is 176/114, and she is newly short of breath, with crackles at both lung bases.",
+   "intended": "preeclampsia",
+   "bp_text": "176/114"
+  },
+  {
+   "id": "S1-24",
+   "set": "S1",
+   "case": "A 23-year-old woman at 39 weeks attends her midwife appointment. Her blood pressure is 150/100, and her face, hands and fingers have swollen noticeably over the past week.",
+   "intended": "preeclampsia",
+   "bp_text": "150/100"
+  },
+  {
+   "id": "S1-25",
+   "set": "S1",
+   "case": "Seen in obstetric triage at 30 weeks, a 17-year-old woman has a blood pressure of 156/106 mmHg. A clean-catch urine sample tests 3+ for protein.",
+   "intended": "preeclampsia",
+   "bp_text": "156/106 mmHg"
+  },
+  {
+   "id": "S1-26",
+   "set": "S1",
+   "case": "A 42-year-old woman who is 36 weeks pregnant is evaluated in the emergency department. Her blood pressure reads 168/106, and her creatinine has climbed to 1.3 mg/dL from 0.7 two weeks earlier.",
+   "intended": "preeclampsia",
+   "bp_text": "168/106"
+  },
+  {
+   "id": "S1-27",
+   "set": "S1",
+   "case": "During a routine visit at 28 weeks, a 30-year-old woman's blood pressure is 152/96 on two checks, and a urine protein-to-creatinine ratio returns at 0.7.",
+   "intended": "preeclampsia",
+   "bp_text": "152/96"
+  },
+  {
+   "id": "S1-28",
+   "set": "S1",
+   "case": "A 34-year-old woman is assessed in triage at 23 weeks. Her blood pressure is 148/98 on two readings, and she has developed swelling of her face and hands over the past few days.",
+   "intended": "preeclampsia",
+   "bp_text": "148/98"
+  },
+  {
+   "id": "S1-29",
+   "set": "S1",
+   "case": "A 20-year-old woman at 33 weeks is reviewed at her antenatal clinic. Her blood pressure is 156/102, and she has passed only about 300 mL of urine in the last 24 hours.",
+   "intended": "preeclampsia",
+   "bp_text": "156/102"
+  },
+  {
+   "id": "S1-30",
+   "set": "S1",
+   "case": "A 37-year-old woman, 29 weeks pregnant, comes to the emergency department after feeling unwell at work. Her blood pressure is 160/110, and a urine dipstick shows 3+ protein.",
+   "intended": "preeclampsia",
+   "bp_text": "160/110"
+  },
+  {
+   "id": "S1-31",
+   "set": "S1",
+   "case": "A 32-year-old woman at 35 weeks rings the maternity unit because her home cuff shows 158/104. Her hands and face have puffed up since yesterday, and she has passed very little urine today.",
+   "intended": "preeclampsia",
+   "bp_text": "158/104"
+  },
+  {
+   "id": "S1-32",
+   "set": "S1",
+   "case": "A 44-year-old woman carrying twins at 32 weeks is brought to the emergency department breathless. Her blood pressure is 174/112, crackles are heard at both lung bases, and her urine dipstick shows 3+ protein.",
+   "intended": "preeclampsia",
+   "bp_text": "174/112"
+  },
+  {
+   "id": "S1-33",
+   "set": "S1",
+   "case": "At a 21-week visit, a 26-year-old woman whose blood pressure has always been normal now measures 150/98 on repeat checks, and her urine protein-to-creatinine ratio is 0.8.",
+   "intended": "preeclampsia",
+   "bp_text": "150/98"
+  },
+  {
+   "id": "S1-34",
+   "set": "S1",
+   "case": "In the obstetric assessment unit, a 35-year-old woman at 37 weeks has a pressure of 162/108 mmHg, 2+ protein on dipstick, and a creatinine of 1.1 mg/dL, up from 0.6.",
+   "intended": "preeclampsia",
+   "bp_text": "162/108 mmHg"
+  },
+  {
+   "id": "S1-35",
+   "set": "S1",
+   "case": "A 22-year-old woman who is 34 weeks pregnant calls her midwife after a pharmacy machine read her pressure as 156/100 twice; her face and fingers have suddenly swollen.",
+   "intended": "preeclampsia",
+   "bp_text": "156/100"
+  },
+  {
+   "id": "S1-36",
+   "set": "S1",
+   "case": "A 39-year-old woman in her first pregnancy, now at 36 weeks, has a blood pressure of 148/98 at her clinic visit, and her urine dipstick shows 2+ protein along with new swelling of her hands.",
+   "intended": "preeclampsia",
+   "bp_text": "148/98"
+  },
+  {
+   "id": "S1-37",
+   "set": "S1",
+   "case": "A 28-year-old woman at 30 weeks comes to the emergency department because she has become breathless overnight. Her pressure is 166/104, there are crackles at both lung bases, and her creatinine is 1.2 mg/dL.",
+   "intended": "preeclampsia",
+   "bp_text": "166/104"
+  },
+  {
+   "id": "S1-38",
+   "set": "S1",
+   "case": "A 19-year-old woman at 39 weeks is sent from clinic to the maternity triage unit with a pressure of 154/102, 3+ proteinuria, and puffy hands and face that began this week.",
+   "intended": "preeclampsia",
+   "bp_text": "154/102"
+  },
+  {
+   "id": "S1-39",
+   "set": "S1",
+   "case": "During a video consultation, a 33-year-old woman at 27 weeks reports a home reading of 152/96 and new swelling of her face and hands; a urine sample she dropped off that morning showed 2+ protein.",
+   "intended": "preeclampsia",
+   "bp_text": "152/96"
+  },
+  {
+   "id": "S1-40",
+   "set": "S1",
+   "case": "A 41-year-old woman at 31 weeks has a blood pressure of 158/100 at a routine check. Her urine protein-to-creatinine ratio is 1.1, and she reports passing much less urine than usual.",
+   "intended": "preeclampsia",
+   "bp_text": "158/100"
+  },
+  {
+   "id": "S2-01",
+   "set": "S2",
+   "case": "A 32-year-old female at 30 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 118/74 mmHg, and labs show mildly elevated liver enzymes. She has a fever of 38.9\u00b0C and a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "partner": "S0-01",
+   "bp_text": "118/74 mmHg",
+   "finding_text": "She has a fever of 38.9\u00b0C and a positive Murphy's sign.",
+   "dx_keywords": [
+    "cholecystitis",
+    "cholecyst",
+    "gallbladder",
+    "gallstone"
+   ]
+  },
+  {
+   "id": "S2-02",
+   "set": "S2",
+   "case": "A 27-year-old female at 34 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 114/70 mmHg, and labs show transaminases above 2,000 U/L, and she is jaundiced three weeks after a trip to rural Peru.",
+   "intended": "acute hepatitis A",
+   "partner": "S0-02",
+   "bp_text": "114/70 mmHg",
+   "finding_text": "transaminases above 2,000 U/L, and she is jaundiced three weeks after a trip to rural Peru",
+   "dx_keywords": [
+    "hepatitis a",
+    "hepatitis",
+    "viral hepatitis",
+    "hep a"
+   ]
+  },
+  {
+   "id": "S2-03",
+   "set": "S2",
+   "case": "A 38-year-old female at 28 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 120/78 mmHg, and labs show mildly elevated liver enzymes. She also has a fever of 39.2\u00b0C, dysuria, right costovertebral angle tenderness, and nitrite-positive urine.",
+   "intended": "acute pyelonephritis",
+   "partner": "S0-03",
+   "bp_text": "120/78 mmHg",
+   "finding_text": "She also has a fever of 39.2\u00b0C, dysuria, right costovertebral angle tenderness, and nitrite-positive urine.",
+   "dx_keywords": [
+    "pyelonephritis",
+    "pyelo",
+    "kidney infection",
+    "renal infection"
+   ]
+  },
+  {
+   "id": "S2-04",
+   "set": "S2",
+   "case": "A 24-year-old female at 32 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 116/70 mmHg, and labs show mildly elevated liver enzymes. Pain began periumbilically; she has a fever of 38.4\u00b0C and a rising white count of 17,000.",
+   "intended": "acute appendicitis",
+   "partner": "S0-04",
+   "bp_text": "116/70 mmHg",
+   "finding_text": "Pain began periumbilically; she has a fever of 38.4\u00b0C and a rising white count of 17,000.",
+   "dx_keywords": [
+    "appendicitis",
+    "appendix",
+    "appendic",
+    "appendectomy"
+   ]
+  },
+  {
+   "id": "S2-05",
+   "set": "S2",
+   "case": "A 41-year-old female at 36 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 110/68 mmHg, and labs show normal liver enzymes and white count; the pain began after a fatty meal and is easing.",
+   "intended": "biliary colic",
+   "partner": "S0-05",
+   "bp_text": "110/68 mmHg",
+   "finding_text": "normal liver enzymes and white count; the pain began after a fatty meal and is easing",
+   "dx_keywords": [
+    "biliary colic",
+    "biliary",
+    "gallstone",
+    "cholelithiasis",
+    "gallbladder"
+   ]
+  },
+  {
+   "id": "S2-06",
+   "set": "S2",
+   "case": "A 19-year-old female at 26 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 124/80 mmHg, and labs show mildly elevated liver enzymes. She is febrile at 38.7\u00b0C with a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "partner": "S0-06",
+   "bp_text": "124/80 mmHg",
+   "finding_text": "She is febrile at 38.7\u00b0C with a positive Murphy's sign.",
+   "dx_keywords": [
+    "cholecystitis",
+    "cholecyst",
+    "gallbladder",
+    "gallstone"
+   ]
+  },
+  {
+   "id": "S2-07",
+   "set": "S2",
+   "case": "A 35-year-old female at 31 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 122/78 mmHg, and labs show mildly elevated liver enzymes. The pain began periumbilically, with fever of 38.3\u00b0C and a rising white count of 16,500.",
+   "intended": "acute appendicitis",
+   "partner": "S0-07",
+   "bp_text": "122/78 mmHg",
+   "finding_text": "The pain began periumbilically, with fever of 38.3\u00b0C and a rising white count of 16,500.",
+   "dx_keywords": [
+    "appendicitis",
+    "appendix",
+    "appendic",
+    "appendectomy"
+   ]
+  },
+  {
+   "id": "S2-08",
+   "set": "S2",
+   "case": "A 29-year-old female at 37 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 108/66 mmHg, and labs show mildly elevated liver enzymes. She has a fever of 38.9\u00b0C, burning urination, right flank tenderness, and nitrite-positive urine.",
+   "intended": "acute pyelonephritis",
+   "partner": "S0-08",
+   "bp_text": "108/66 mmHg",
+   "finding_text": "She has a fever of 38.9\u00b0C, burning urination, right flank tenderness, and nitrite-positive urine.",
+   "dx_keywords": [
+    "pyelonephritis",
+    "pyelo",
+    "kidney infection",
+    "renal infection"
+   ]
+  },
+  {
+   "id": "S2-09",
+   "set": "S2",
+   "case": "A 22-year-old female at 25 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 112/72 mmHg, and labs show transaminases of 1,800 U/L; she became jaundiced after eating raw shellfish while traveling.",
+   "intended": "acute hepatitis A",
+   "partner": "S0-09",
+   "bp_text": "112/72 mmHg",
+   "finding_text": "transaminases of 1,800 U/L; she became jaundiced after eating raw shellfish while traveling",
+   "dx_keywords": [
+    "hepatitis a",
+    "hepatitis",
+    "viral hepatitis",
+    "hep a"
+   ]
+  },
+  {
+   "id": "S2-10",
+   "set": "S2",
+   "case": "A 33-year-old female at 29 weeks gestation presents with severe right upper quadrant pain, mild headache, and nausea. BP is 120/76 mmHg, and labs show a normal white count and liver tests; the pain started an hour after a fatty fried dinner.",
+   "intended": "biliary colic",
+   "partner": "S0-10",
+   "bp_text": "120/76 mmHg",
+   "finding_text": "a normal white count and liver tests; the pain started an hour after a fatty fried dinner",
+   "dx_keywords": [
+    "biliary colic",
+    "biliary",
+    "gallstone",
+    "cholelithiasis",
+    "gallbladder"
+   ]
+  },
+  {
+   "id": "S2-11",
+   "set": "S2",
+   "case": "At a routine prenatal visit, a 26-year-old woman at 34 weeks has a blood pressure of 112/70 on two readings taken 15 minutes apart, and her urine dipstick is positive for nitrites, with burning and frequent urination but no fever.",
+   "intended": "simple urinary tract infection",
+   "partner": "S1-01",
+   "bp_text": "112/70",
+   "finding_text": "her urine dipstick is positive for nitrites, with burning and frequent urination but no fever",
+   "dx_keywords": [
+    "urinary tract infection",
+    "bladder infection",
+    "acute cystitis",
+    "urine infection",
+    "lower urinary tract"
+   ]
+  },
+  {
+   "id": "S2-12",
+   "set": "S2",
+   "case": "A 31-year-old woman who is 33 weeks pregnant comes to obstetric triage on the advice of her midwife. Her blood pressure reads 116/74, and she has constant pain beneath her right ribs, a temperature of 38.7\u00b0C, and a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "partner": "S1-02",
+   "bp_text": "116/74",
+   "finding_text": "she has constant pain beneath her right ribs, a temperature of 38.7\u00b0C, and a positive Murphy's sign",
+   "dx_keywords": [
+    "cholecystitis",
+    "cholecyst",
+    "gallbladder",
+    "gallstone"
+   ]
+  },
+  {
+   "id": "S2-13",
+   "set": "S2",
+   "case": "A 37-year-old woman at 32 weeks of pregnancy is brought to the emergency department by her partner. Her blood pressure is 118/76, and she has a temperature of 39.1\u00b0C, right flank pain with costovertebral angle tenderness, painful urination, and urine positive for nitrites.",
+   "intended": "acute pyelonephritis",
+   "partner": "S1-03",
+   "bp_text": "118/76",
+   "finding_text": "she has a temperature of 39.1\u00b0C, right flank pain with costovertebral angle tenderness, painful urination, and urine positive for nitrites",
+   "dx_keywords": [
+    "pyelonephritis",
+    "pyelo",
+    "kidney infection",
+    "renal infection"
+   ]
+  },
+  {
+   "id": "S2-14",
+   "set": "S2",
+   "case": "During her 28-week checkup, a 22-year-old woman in her second pregnancy has a blood pressure of 112/72 on repeat measurement, and she is jaundiced, with transaminases above 1,500 U/L, three weeks after returning from a trip to rural India.",
+   "intended": "acute hepatitis A",
+   "partner": "S1-04",
+   "bp_text": "112/72",
+   "finding_text": "she is jaundiced, with transaminases above 1,500 U/L, three weeks after returning from a trip to rural India",
+   "dx_keywords": [
+    "hepatitis a",
+    "hepatitis",
+    "viral hepatitis",
+    "hep a"
+   ]
+  },
+  {
+   "id": "S2-15",
+   "set": "S2",
+   "case": "A 40-year-old woman, 30 weeks pregnant, is seen in the emergency department, where her blood pressure measures 118/76 and she has a temperature of 38.4\u00b0C, a white count that has climbed from 11,000 to 17,000 overnight, and localized right-sided abdominal tenderness.",
+   "intended": "acute appendicitis",
+   "partner": "S1-05",
+   "bp_text": "118/76",
+   "finding_text": "she has a temperature of 38.4\u00b0C, a white count that has climbed from 11,000 to 17,000 overnight, and localized right-sided abdominal tenderness",
+   "dx_keywords": [
+    "appendicitis",
+    "appendix",
+    "appendic",
+    "appendectomy"
+   ]
+  },
+  {
+   "id": "S2-16",
+   "set": "S2",
+   "case": "A 29-year-old woman at 36 weeks gestation is seen at home by her community midwife. Her blood pressure is 110/70, and she reports burning and frequent urination without fever, and a urine dipstick is positive for nitrites.",
+   "intended": "simple urinary tract infection",
+   "partner": "S1-06",
+   "bp_text": "110/70",
+   "finding_text": "she reports burning and frequent urination without fever, and a urine dipstick is positive for nitrites",
+   "dx_keywords": [
+    "urinary tract infection",
+    "bladder infection",
+    "acute cystitis",
+    "urine infection",
+    "lower urinary tract"
+   ]
+  },
+  {
+   "id": "S2-17",
+   "set": "S2",
+   "case": "A 33-year-old woman who is 31 weeks pregnant phones the clinic after checking her pressure at home: 114/72 on two readings. She says fatty meals have been followed by bouts of cramping pain under her right ribs that ease within two hours.",
+   "intended": "biliary colic",
+   "partner": "S1-07",
+   "bp_text": "114/72",
+   "finding_text": "fatty meals have been followed by bouts of cramping pain under her right ribs that ease within two hours",
+   "dx_keywords": [
+    "biliary colic",
+    "biliary",
+    "gallstone",
+    "cholelithiasis",
+    "gallbladder"
+   ]
+  },
+  {
+   "id": "S2-18",
+   "set": "S2",
+   "case": "In obstetric triage, a 19-year-old woman at 37 weeks has a blood pressure of 106/64 on repeat measurement, and she has a temperature of 38.6\u00b0C, constant pain under her right ribs, and a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "partner": "S1-08",
+   "bp_text": "106/64",
+   "finding_text": "she has a temperature of 38.6\u00b0C, constant pain under her right ribs, and a positive Murphy's sign",
+   "dx_keywords": [
+    "cholecystitis",
+    "cholecyst",
+    "gallbladder",
+    "gallstone"
+   ]
+  },
+  {
+   "id": "S2-19",
+   "set": "S2",
+   "case": "A 35-year-old woman at 29 weeks gestation arrives at the emergency department. Her pressure is 120/78 mmHg, and she has been jaundiced for three days, with transaminases above 2,000 U/L, a month after eating raw oysters on holiday.",
+   "intended": "acute hepatitis A",
+   "partner": "S1-09",
+   "bp_text": "120/78 mmHg",
+   "finding_text": "she has been jaundiced for three days, with transaminases above 2,000 U/L, a month after eating raw oysters on holiday",
+   "dx_keywords": [
+    "hepatitis a",
+    "hepatitis",
+    "viral hepatitis",
+    "hep a"
+   ]
+  },
+  {
+   "id": "S2-20",
+   "set": "S2",
+   "case": "A 41-year-old woman at 35 weeks has a blood pressure of 114/74 at her prenatal appointment, unchanged after 15 minutes of rest, and she has a temperature of 38.6\u00b0C, constant pain under her right rib cage, and a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "partner": "S1-10",
+   "bp_text": "114/74",
+   "finding_text": "she has a temperature of 38.6\u00b0C, constant pain under her right rib cage, and a positive Murphy's sign",
+   "dx_keywords": [
+    "cholecystitis",
+    "cholecyst",
+    "gallbladder",
+    "gallstone"
+   ]
+  },
+  {
+   "id": "S2-21",
+   "set": "S2",
+   "case": "A 24-year-old woman is assessed in obstetric triage at 33 weeks. Her blood pressure is 116/72 on repeat checks, and she has a temperature of 38.5\u00b0C, a white count that has risen from 12,000 to 18,000 since morning, and localized right-sided abdominal tenderness.",
+   "intended": "acute appendicitis",
+   "partner": "S1-11",
+   "bp_text": "116/72",
+   "finding_text": "she has a temperature of 38.5\u00b0C, a white count that has risen from 12,000 to 18,000 since morning, and localized right-sided abdominal tenderness",
+   "dx_keywords": [
+    "appendicitis",
+    "appendix",
+    "appendic",
+    "appendectomy"
+   ]
+  },
+  {
+   "id": "S2-22",
+   "set": "S2",
+   "case": "A 28-year-old woman, 38 weeks pregnant, calls the advice line. Her home monitor shows 112/68, and she reports bouts of cramping pain beneath her right ribs after fatty meals, each settling within a few hours.",
+   "intended": "biliary colic",
+   "partner": "S1-12",
+   "bp_text": "112/68",
+   "finding_text": "she reports bouts of cramping pain beneath her right ribs after fatty meals, each settling within a few hours",
+   "dx_keywords": [
+    "biliary colic",
+    "biliary",
+    "gallstone",
+    "cholelithiasis",
+    "gallbladder"
+   ]
+  },
+  {
+   "id": "S2-23",
+   "set": "S2",
+   "case": "A 34-year-old woman at 26 weeks is seen for a scheduled antenatal appointment. Her blood pressure is recorded at 108/68, and she is jaundiced, with transaminases above 1,700 U/L, four weeks after eating at a restaurant linked to a local outbreak.",
+   "intended": "acute hepatitis A",
+   "partner": "S1-13",
+   "bp_text": "108/68",
+   "finding_text": "she is jaundiced, with transaminases above 1,700 U/L, four weeks after eating at a restaurant linked to a local outbreak",
+   "dx_keywords": [
+    "hepatitis a",
+    "hepatitis",
+    "viral hepatitis",
+    "hep a"
+   ]
+  },
+  {
+   "id": "S2-24",
+   "set": "S2",
+   "case": "A 30-year-old woman who is 35 weeks pregnant is seen in the emergency room. Her blood pressure is 122/80, and nursing staff note that she has a temperature of 39.0\u00b0C, dysuria, right costovertebral angle tenderness, and nitrite-positive urine.",
+   "intended": "acute pyelonephritis",
+   "partner": "S1-14",
+   "bp_text": "122/80",
+   "finding_text": "she has a temperature of 39.0\u00b0C, dysuria, right costovertebral angle tenderness, and nitrite-positive urine",
+   "dx_keywords": [
+    "pyelonephritis",
+    "pyelo",
+    "kidney infection",
+    "renal infection"
+   ]
+  },
+  {
+   "id": "S2-25",
+   "set": "S2",
+   "case": "At her 30-week visit, a 21-year-old woman's blood pressure is 110/66, confirmed again four hours later, and she has new burning and frequency when passing urine, with a dipstick positive for nitrites and no fever.",
+   "intended": "simple urinary tract infection",
+   "partner": "S1-15",
+   "bp_text": "110/66",
+   "finding_text": "new burning and frequency when passing urine, with a dipstick positive for nitrites and no fever",
+   "dx_keywords": [
+    "urinary tract infection",
+    "bladder infection",
+    "acute cystitis",
+    "urine infection",
+    "lower urinary tract"
+   ]
+  },
+  {
+   "id": "S2-26",
+   "set": "S2",
+   "case": "Evaluated in labor triage at 31 weeks, a 43-year-old woman has a blood pressure of 118/74 and a temperature of 38.4\u00b0C, a white count that has risen from 10,000 to 17,500, and localized right-sided abdominal tenderness.",
+   "intended": "acute appendicitis",
+   "partner": "S1-16",
+   "bp_text": "118/74",
+   "finding_text": "a temperature of 38.4\u00b0C, a white count that has risen from 10,000 to 17,500, and localized right-sided abdominal tenderness",
+   "dx_keywords": [
+    "appendicitis",
+    "appendix",
+    "appendic",
+    "appendectomy"
+   ]
+  },
+  {
+   "id": "S2-27",
+   "set": "S2",
+   "case": "A 25-year-old woman at 32 weeks gestation is seen in clinic with a blood pressure of 112/70. She has a temperature of 38.8\u00b0C, dysuria, tenderness at the right costovertebral angle, and urine positive for nitrites.",
+   "intended": "acute pyelonephritis",
+   "partner": "S1-17",
+   "bp_text": "112/70",
+   "finding_text": "She has a temperature of 38.8\u00b0C, dysuria, tenderness at the right costovertebral angle, and urine positive for nitrites.",
+   "dx_keywords": [
+    "pyelonephritis",
+    "pyelo",
+    "kidney infection",
+    "renal infection"
+   ]
+  },
+  {
+   "id": "S2-28",
+   "set": "S2",
+   "case": "An 18-year-old woman, 27 weeks pregnant, comes to the emergency department. Her blood pressure is 110/70, and she is jaundiced, with transaminases over 2,500 U/L, three weeks after drinking untreated water on a trip to rural Mexico.",
+   "intended": "acute hepatitis A",
+   "partner": "S1-18",
+   "bp_text": "110/70",
+   "finding_text": "she is jaundiced, with transaminases over 2,500 U/L, three weeks after drinking untreated water on a trip to rural Mexico",
+   "dx_keywords": [
+    "hepatitis a",
+    "hepatitis",
+    "viral hepatitis",
+    "hep a"
+   ]
+  },
+  {
+   "id": "S2-29",
+   "set": "S2",
+   "case": "A 36-year-old woman comes for her 24-week appointment. Two blood pressure readings taken 20 minutes apart are 112/70 and 114/72, and she has a temperature of 38.7\u00b0C, right-sided pain beneath her ribs, and a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "partner": "S1-19",
+   "bp_text": "112/70 and 114/72",
+   "finding_text": "she has a temperature of 38.7\u00b0C, right-sided pain beneath her ribs, and a positive Murphy's sign",
+   "dx_keywords": [
+    "cholecystitis",
+    "cholecyst",
+    "gallbladder",
+    "gallstone"
+   ]
+  },
+  {
+   "id": "S2-30",
+   "set": "S2",
+   "case": "A 32-year-old woman at 38 weeks is assessed in obstetric triage. Her blood pressure is 116/76, and she reports burning and urinary frequency, with urine positive for nitrites and no fever.",
+   "intended": "simple urinary tract infection",
+   "partner": "S1-20",
+   "bp_text": "116/76",
+   "finding_text": "she reports burning and urinary frequency, with urine positive for nitrites and no fever",
+   "dx_keywords": [
+    "urinary tract infection",
+    "bladder infection",
+    "acute cystitis",
+    "urine infection",
+    "lower urinary tract"
+   ]
+  },
+  {
+   "id": "S2-31",
+   "set": "S2",
+   "case": "A 27-year-old woman who is 25 weeks pregnant is seen in the emergency department, where her pressure is 114/70. She describes bouts of pain under her right ribs after fatty meals, and her blood counts and transaminases are normal.",
+   "intended": "biliary colic",
+   "partner": "S1-21",
+   "bp_text": "114/70",
+   "finding_text": "She describes bouts of pain under her right ribs after fatty meals, and her blood counts and transaminases are normal.",
+   "dx_keywords": [
+    "biliary colic",
+    "biliary",
+    "gallstone",
+    "cholelithiasis",
+    "gallbladder"
+   ]
+  },
+  {
+   "id": "S2-32",
+   "set": "S2",
+   "case": "At a prenatal check at 22 weeks, a 39-year-old woman has a blood pressure of 108/66 on two measurements, and she has a temperature of 38.3\u00b0C, a white count rising from 10,500 to 16,000, and localized right-sided abdominal tenderness.",
+   "intended": "acute appendicitis",
+   "partner": "S1-22",
+   "bp_text": "108/66",
+   "finding_text": "she has a temperature of 38.3\u00b0C, a white count rising from 10,500 to 16,000, and localized right-sided abdominal tenderness",
+   "dx_keywords": [
+    "appendicitis",
+    "appendix",
+    "appendic",
+    "appendectomy"
+   ]
+  },
+  {
+   "id": "S2-33",
+   "set": "S2",
+   "case": "A 38-year-old woman at 34 weeks is seen in the emergency department late at night. Her blood pressure is 120/80, and she has a temperature of 38.9\u00b0C, constant pain beneath her right ribs, and a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "partner": "S1-23",
+   "bp_text": "120/80",
+   "finding_text": "she has a temperature of 38.9\u00b0C, constant pain beneath her right ribs, and a positive Murphy's sign",
+   "dx_keywords": [
+    "cholecystitis",
+    "cholecyst",
+    "gallbladder",
+    "gallstone"
+   ]
+  },
+  {
+   "id": "S2-34",
+   "set": "S2",
+   "case": "A 23-year-old woman at 39 weeks attends her midwife appointment. Her blood pressure is 112/74, and she has been jaundiced for four days, with transaminases above 1,600 U/L, a month after a family trip to Guatemala.",
+   "intended": "acute hepatitis A",
+   "partner": "S1-24",
+   "bp_text": "112/74",
+   "finding_text": "she has been jaundiced for four days, with transaminases above 1,600 U/L, a month after a family trip to Guatemala",
+   "dx_keywords": [
+    "hepatitis a",
+    "hepatitis",
+    "viral hepatitis",
+    "hep a"
+   ]
+  },
+  {
+   "id": "S2-35",
+   "set": "S2",
+   "case": "Seen in obstetric triage at 30 weeks, a 17-year-old woman has a blood pressure of 106/62 mmHg. She has a temperature of 39.3\u00b0C, left flank pain with costovertebral angle tenderness, burning urination, and nitrite-positive urine.",
+   "intended": "acute pyelonephritis",
+   "partner": "S1-25",
+   "bp_text": "106/62 mmHg",
+   "finding_text": "She has a temperature of 39.3\u00b0C, left flank pain with costovertebral angle tenderness, burning urination, and nitrite-positive urine.",
+   "dx_keywords": [
+    "pyelonephritis",
+    "pyelo",
+    "kidney infection",
+    "renal infection"
+   ]
+  },
+  {
+   "id": "S2-36",
+   "set": "S2",
+   "case": "A 42-year-old woman who is 36 weeks pregnant is evaluated in the emergency department. Her blood pressure reads 118/78, and she has dysuria and urinary frequency, with nitrite-positive urine and a normal temperature.",
+   "intended": "simple urinary tract infection",
+   "partner": "S1-26",
+   "bp_text": "118/78",
+   "finding_text": "she has dysuria and urinary frequency, with nitrite-positive urine and a normal temperature",
+   "dx_keywords": [
+    "urinary tract infection",
+    "bladder infection",
+    "acute cystitis",
+    "urine infection",
+    "lower urinary tract"
+   ]
+  },
+  {
+   "id": "S2-37",
+   "set": "S2",
+   "case": "During a routine visit at 28 weeks, a 30-year-old woman's blood pressure is 114/70 on two checks, and she describes cramping pain under her right ribs after fatty meals, with normal blood counts and transaminases.",
+   "intended": "biliary colic",
+   "partner": "S1-27",
+   "bp_text": "114/70",
+   "finding_text": "she describes cramping pain under her right ribs after fatty meals, with normal blood counts and transaminases",
+   "dx_keywords": [
+    "biliary colic",
+    "biliary",
+    "gallstone",
+    "cholelithiasis",
+    "gallbladder"
+   ]
+  },
+  {
+   "id": "S2-38",
+   "set": "S2",
+   "case": "A 34-year-old woman is assessed in triage at 23 weeks. Her blood pressure is 110/68 on two readings, and she has a temperature of 38.6\u00b0C, a white count that has risen from 11,000 to 16,800, and localized right-sided abdominal tenderness.",
+   "intended": "acute appendicitis",
+   "partner": "S1-28",
+   "bp_text": "110/68",
+   "finding_text": "she has a temperature of 38.6\u00b0C, a white count that has risen from 11,000 to 16,800, and localized right-sided abdominal tenderness",
+   "dx_keywords": [
+    "appendicitis",
+    "appendix",
+    "appendic",
+    "appendectomy"
+   ]
+  },
+  {
+   "id": "S2-39",
+   "set": "S2",
+   "case": "A 20-year-old woman at 33 weeks is reviewed at her antenatal clinic. Her blood pressure is 116/70, and she has a temperature of 38.9\u00b0C, painful urination, right costovertebral angle tenderness, and urine positive for nitrites.",
+   "intended": "acute pyelonephritis",
+   "partner": "S1-29",
+   "bp_text": "116/70",
+   "finding_text": "she has a temperature of 38.9\u00b0C, painful urination, right costovertebral angle tenderness, and urine positive for nitrites",
+   "dx_keywords": [
+    "pyelonephritis",
+    "pyelo",
+    "kidney infection",
+    "renal infection"
+   ]
+  },
+  {
+   "id": "S2-40",
+   "set": "S2",
+   "case": "A 37-year-old woman, 29 weeks pregnant, comes to the emergency department after feeling unwell at work. Her blood pressure is 118/72, and she has burning and frequent urination, with urine positive for nitrites and no fever.",
+   "intended": "simple urinary tract infection",
+   "partner": "S1-30",
+   "bp_text": "118/72",
+   "finding_text": "she has burning and frequent urination, with urine positive for nitrites and no fever",
+   "dx_keywords": [
+    "urinary tract infection",
+    "bladder infection",
+    "acute cystitis",
+    "urine infection",
+    "lower urinary tract"
+   ]
+  },
+  {
+   "id": "S3-01",
+   "set": "S3",
+   "case": "A 58-year-old woman presents with severe right upper quadrant pain, mild headache, and nausea. BP is 164/100 mmHg, and labs show mildly elevated liver enzymes. She has a fever of 38.8\u00b0C and a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "bp_text": "164/100 mmHg",
+   "finding_text": "She has a fever of 38.8\u00b0C and a positive Murphy's sign."
+  },
+  {
+   "id": "S3-02",
+   "set": "S3",
+   "case": "A 63-year-old postmenopausal woman presents with severe right upper quadrant pain, mild headache, and nausea. BP is 172/104 mmHg, and labs show normal liver enzymes and white count; the pain began after a fatty meal.",
+   "intended": "biliary colic",
+   "bp_text": "172/104 mmHg",
+   "finding_text": "normal liver enzymes and white count; the pain began after a fatty meal"
+  },
+  {
+   "id": "S3-03",
+   "set": "S3",
+   "case": "A 34-year-old woman with a negative pregnancy test presents with severe right upper quadrant pain, mild headache, and nausea. BP is 156/96 mmHg, and labs show transaminases above 2,000 U/L, and she is jaundiced after a recent trip to rural Peru.",
+   "intended": "acute hepatitis A",
+   "bp_text": "156/96 mmHg",
+   "finding_text": "transaminases above 2,000 U/L, and she is jaundiced after a recent trip to rural Peru"
+  },
+  {
+   "id": "S3-04",
+   "set": "S3",
+   "case": "A 51-year-old postmenopausal female presents with severe right upper quadrant pain, mild headache, and nausea. BP is 168/102 mmHg, and labs show mildly elevated liver enzymes. She is febrile at 38.6\u00b0C with a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "bp_text": "168/102 mmHg",
+   "finding_text": "She is febrile at 38.6\u00b0C with a positive Murphy's sign."
+  },
+  {
+   "id": "S3-05",
+   "set": "S3",
+   "case": "A 29-year-old female who is not pregnant presents with severe right upper quadrant pain, mild headache, and nausea. BP is 152/94 mmHg, and labs show transaminases of 1,900 U/L, and she became jaundiced after eating raw shellfish abroad.",
+   "intended": "acute hepatitis A",
+   "bp_text": "152/94 mmHg",
+   "finding_text": "transaminases of 1,900 U/L, and she became jaundiced after eating raw shellfish abroad"
+  },
+  {
+   "id": "S3-06",
+   "set": "S3",
+   "case": "A 67-year-old female presents with severe right upper quadrant pain, mild headache, and nausea. BP is 178/108 mmHg, and labs show mildly elevated liver enzymes. Temperature is 38.9\u00b0C, and Murphy's sign is positive.",
+   "intended": "acute cholecystitis",
+   "bp_text": "178/108 mmHg",
+   "finding_text": "Temperature is 38.9\u00b0C, and Murphy's sign is positive."
+  },
+  {
+   "id": "S3-07",
+   "set": "S3",
+   "case": "A 41-year-old female, not pregnant, presents with severe right upper quadrant pain, mild headache, and nausea. BP is 160/98 mmHg, and labs show a normal white count and liver tests; the pain started an hour after a fried, fatty dinner.",
+   "intended": "biliary colic",
+   "bp_text": "160/98 mmHg",
+   "finding_text": "a normal white count and liver tests; the pain started an hour after a fried, fatty dinner"
+  },
+  {
+   "id": "S3-08",
+   "set": "S3",
+   "case": "A 55-year-old woman presents with severe right upper quadrant pain, mild headache, and nausea. BP is 166/100 mmHg, and labs show mildly elevated liver enzymes. She also has a fever of 38.7\u00b0C and a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "bp_text": "166/100 mmHg",
+   "finding_text": "She also has a fever of 38.7\u00b0C and a positive Murphy's sign."
+  },
+  {
+   "id": "S3-09",
+   "set": "S3",
+   "case": "A 38-year-old woman whose pregnancy test is negative presents with severe right upper quadrant pain, mild headache, and nausea. BP is 154/96 mmHg, and labs show transaminases over 2,500 U/L; she is jaundiced, and a coworker she ate with had the same illness.",
+   "intended": "acute hepatitis A",
+   "bp_text": "154/96 mmHg",
+   "finding_text": "transaminases over 2,500 U/L; she is jaundiced, and a coworker she ate with had the same illness"
+  },
+  {
+   "id": "S3-10",
+   "set": "S3",
+   "case": "A 70-year-old woman presents with severe right upper quadrant pain, mild headache, and nausea. BP is 174/106 mmHg, and labs show mildly elevated liver enzymes. She has a fever of 38.5\u00b0C and a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "bp_text": "174/106 mmHg",
+   "finding_text": "She has a fever of 38.5\u00b0C and a positive Murphy's sign."
+  },
+  {
+   "id": "S3-11",
+   "set": "S3",
+   "case": "A 26-year-old female with a negative urine pregnancy test presents with severe right upper quadrant pain, mild headache, and nausea. BP is 150/92 mmHg, and labs show normal liver tests and white count, and the pain followed a fatty takeaway meal.",
+   "intended": "biliary colic",
+   "bp_text": "150/92 mmHg",
+   "finding_text": "normal liver tests and white count, and the pain followed a fatty takeaway meal"
+  },
+  {
+   "id": "S3-12",
+   "set": "S3",
+   "case": "A 60-year-old female presents with severe right upper quadrant pain, mild headache, and nausea. BP is 162/96 mmHg, and labs show mildly elevated liver enzymes. She is febrile at 38.8\u00b0C, and Murphy's sign is positive.",
+   "intended": "acute cholecystitis",
+   "bp_text": "162/96 mmHg",
+   "finding_text": "She is febrile at 38.8\u00b0C, and Murphy's sign is positive."
+  },
+  {
+   "id": "S3-13",
+   "set": "S3",
+   "case": "A 44-year-old woman who is not pregnant presents with severe right upper quadrant pain, mild headache, and nausea. BP is 158/102 mmHg, and labs show transaminases above 1,800 U/L, and she is jaundiced after drinking untreated water on a trip to Mexico.",
+   "intended": "acute hepatitis A",
+   "bp_text": "158/102 mmHg",
+   "finding_text": "transaminases above 1,800 U/L, and she is jaundiced after drinking untreated water on a trip to Mexico"
+  },
+  {
+   "id": "S3-14",
+   "set": "S3",
+   "case": "A 53-year-old postmenopausal woman presents with severe right upper quadrant pain, mild headache, and nausea. BP is 170/100 mmHg, and labs show normal liver enzymes and blood counts; the pain began after a rich, fatty meal.",
+   "intended": "biliary colic",
+   "bp_text": "170/100 mmHg",
+   "finding_text": "normal liver enzymes and blood counts; the pain began after a rich, fatty meal"
+  },
+  {
+   "id": "S3-15",
+   "set": "S3",
+   "case": "A 32-year-old non-pregnant female presents with severe right upper quadrant pain, mild headache, and nausea. BP is 162/98 mmHg, and labs show mildly elevated liver enzymes. She has a fever of 38.9\u00b0C and a positive Murphy's sign.",
+   "intended": "acute cholecystitis",
+   "bp_text": "162/98 mmHg",
+   "finding_text": "She has a fever of 38.9\u00b0C and a positive Murphy's sign."
+  },
+  {
+   "id": "S3-16",
+   "set": "S3",
+   "case": "A 62-year-old woman has had constant pain under her right ribs for 18 hours, with vomiting and a temperature of 38.6\u00b0C. Her blood pressure is 158/94, Murphy's sign is positive, and her white count is 15,000.",
+   "intended": "acute cholecystitis",
+   "bp_text": "158/94"
+  },
+  {
+   "id": "S3-17",
+   "set": "S3",
+   "case": "A 36-year-old woman with a negative pregnancy test notices a puffy face and cola-colored urine two weeks after a sore throat with fever. Her blood pressure is 162/100, and urinalysis shows red cell casts and 2+ protein.",
+   "intended": "post-streptococcal glomerulonephritis",
+   "bp_text": "162/100"
+  },
+  {
+   "id": "S3-18",
+   "set": "S3",
+   "case": "A 57-year-old postmenopausal woman who stopped her blood pressure tablets a week ago reports a pounding headache and nausea. Her blood pressure is 180/116, and her neurological examination and kidney function are normal.",
+   "intended": "hypertensive urgency after stopping antihypertensive medication",
+   "bp_text": "180/116"
+  },
+  {
+   "id": "S3-19",
+   "set": "S3",
+   "case": "A 31-year-old woman who is not pregnant has recurrent spells of pounding headache, palpitations, and drenching sweats. During an episode her blood pressure is 176/108, and her plasma metanephrines are markedly raised.",
+   "intended": "pheochromocytoma",
+   "bp_text": "176/108"
+  },
+  {
+   "id": "S3-20",
+   "set": "S3",
+   "case": "A 66-year-old woman reports two days of cramping pain beneath her right ribs, nausea, and dark urine. Her blood pressure is 154/90, she is jaundiced, and her bilirubin and alkaline phosphatase are raised, with a dilated common bile duct on ultrasound.",
+   "intended": "choledocholithiasis",
+   "bp_text": "154/90"
+  },
+  {
+   "id": "S3-21",
+   "set": "S3",
+   "case": "A 28-year-old woman with a negative pregnancy test has painful joints, a facial rash that worsens in sunlight, and swollen ankles. Her blood pressure is 156/98, her urine shows 3+ protein, and anti-dsDNA antibodies are positive.",
+   "intended": "lupus nephritis (systemic lupus erythematosus)",
+   "bp_text": "156/98"
+  },
+  {
+   "id": "S3-22",
+   "set": "S3",
+   "case": "A 59-year-old woman who drinks a bottle of wine daily has two weeks of aching pain under her right ribs, nausea, and yellowing skin. Her blood pressure is 152/92, and her AST is 240 U/L with an ALT of 95 U/L.",
+   "intended": "alcoholic hepatitis",
+   "bp_text": "152/92"
+  },
+  {
+   "id": "S3-23",
+   "set": "S3",
+   "case": "A 42-year-old woman, not pregnant, develops a sudden explosive headache while lifting weights, followed by vomiting and neck stiffness. Her blood pressure is 172/102, and she is drowsy but oriented.",
+   "intended": "subarachnoid hemorrhage",
+   "bp_text": "172/102"
+  },
+  {
+   "id": "S3-24",
+   "set": "S3",
+   "case": "A 68-year-old woman has constant pain in the upper abdomen radiating through to her back, with repeated vomiting. Her blood pressure is 150/90, and her serum lipase is eight times the upper limit of normal.",
+   "intended": "acute pancreatitis",
+   "bp_text": "150/90"
+  },
+  {
+   "id": "S3-25",
+   "set": "S3",
+   "case": "A 33-year-old woman with a negative pregnancy test has fever, shaking chills, right flank pain and burning urination. Her blood pressure is 154/96, and her urine is positive for nitrites and white cells.",
+   "intended": "acute pyelonephritis",
+   "bp_text": "154/96"
+  },
+  {
+   "id": "S3-26",
+   "set": "S3",
+   "case": "A 54-year-old postmenopausal woman has sudden waves of right flank pain spreading to the groin, with nausea and blood in her urine. Her blood pressure is 166/98, and she cannot lie still.",
+   "intended": "renal colic from a ureteric stone",
+   "bp_text": "166/98"
+  },
+  {
+   "id": "S3-27",
+   "set": "S3",
+   "case": "A 39-year-old woman who is not pregnant has a blood pressure of 168/104 despite three medicines, along with headaches, muscle cramps and weakness. Her potassium is 2.9 mmol/L and her plasma renin is suppressed.",
+   "intended": "primary hyperaldosteronism",
+   "bp_text": "168/104"
+  },
+  {
+   "id": "S3-28",
+   "set": "S3",
+   "case": "A 71-year-old woman is found confused by her daughter after a day of worsening headache and vomiting. Her blood pressure is 178/122, she has no limb weakness, and a CT scan of her head shows no bleeding.",
+   "intended": "hypertensive encephalopathy",
+   "bp_text": "178/122"
+  },
+  {
+   "id": "S3-29",
+   "set": "S3",
+   "case": "A 25-year-old woman with a negative pregnancy test has crampy abdominal pain, vomiting, and reddish-brown urine after starting a crash diet. Her blood pressure is 158/100, her heart rate is 118, and her abdomen is soft.",
+   "intended": "acute intermittent porphyria",
+   "bp_text": "158/100"
+  },
+  {
+   "id": "S3-30",
+   "set": "S3",
+   "case": "A 50-year-old postmenopausal woman has recurrent bouts of pain beneath her right ribs after fatty meals, with nausea, each lasting a few hours. Her blood pressure is 156/94, and her liver tests and white count are normal.",
+   "intended": "biliary colic",
+   "bp_text": "156/94"
+  }
+ ],
+ "s4": [
+  {
+   "id": "S4-01",
+   "group": "preeclampsia",
+   "text": "Preeclampsia is a pregnancy complication marked by new high blood pressure and signs of organ damage, usually appearing after the 20th week."
+  },
+  {
+   "id": "S4-02",
+   "group": "preeclampsia",
+   "text": "Women having their first baby, those carrying twins, and those with obesity or chronic kidney disease face a higher risk of preeclampsia."
+  },
+  {
+   "id": "S4-03",
+   "group": "preeclampsia",
+   "text": "Magnesium sulfate is given intravenously to women with severe preeclampsia to prevent seizures, and it remains the treatment of choice for eclampsia."
+  },
+  {
+   "id": "S4-04",
+   "group": "preeclampsia",
+   "text": "Worldwide, preeclampsia affects roughly two to eight percent of pregnancies and is a leading cause of maternal and newborn illness."
+  },
+  {
+   "id": "S4-05",
+   "group": "preeclampsia",
+   "text": "The only definitive cure for preeclampsia is delivery of the baby and placenta, although the timing depends on gestational age and severity."
+  },
+  {
+   "id": "S4-06",
+   "group": "preeclampsia",
+   "text": "Eclampsia refers to the onset of seizures in a woman with preeclampsia that cannot be attributed to another cause."
+  },
+  {
+   "id": "S4-07",
+   "group": "preeclampsia",
+   "text": "Low-dose aspirin started before 16 weeks of pregnancy can lower the chance of preeclampsia in women judged to be at high risk."
+  },
+  {
+   "id": "S4-08",
+   "group": "preeclampsia",
+   "text": "The term eclampsia comes from a Greek word meaning a sudden flash, reflecting the abrupt seizures described by ancient physicians."
+  },
+  {
+   "id": "S4-09",
+   "group": "preeclampsia",
+   "text": "Researchers believe preeclampsia begins with abnormal development of the blood vessels that supply the placenta early in pregnancy."
+  },
+  {
+   "id": "S4-10",
+   "group": "preeclampsia",
+   "text": "Women who have had preeclampsia are more likely to develop heart disease and stroke later in life, so long-term follow-up is advised."
+  },
+  {
+   "id": "S4-11",
+   "group": "preeclampsia",
+   "text": "Labetalol, nifedipine and hydralazine are commonly used to bring blood pressure down quickly in women with preeclampsia."
+  },
+  {
+   "id": "S4-12",
+   "group": "preeclampsia",
+   "text": "Doctors screen for preeclampsia at every prenatal visit by checking blood pressure and testing the urine for protein."
+  },
+  {
+   "id": "S4-13",
+   "group": "preeclampsia",
+   "text": "Preeclampsia can occasionally develop after childbirth, usually within the first week, a condition known as postpartum preeclampsia."
+  },
+  {
+   "id": "S4-14",
+   "group": "preeclampsia",
+   "text": "Before magnesium sulfate became standard care in the twentieth century, eclampsia was one of the most feared causes of maternal death."
+  },
+  {
+   "id": "S4-15",
+   "group": "preeclampsia",
+   "text": "Blood tests measuring the sFlt-1 to PlGF ratio can help doctors predict which women are likely to develop preeclampsia within a week."
+  },
+  {
+   "id": "S4-16",
+   "group": "other_pregnancy",
+   "text": "Gestational diabetes is high blood sugar that develops during pregnancy and is usually detected with a glucose tolerance test between 24 and 28 weeks."
+  },
+  {
+   "id": "S4-17",
+   "group": "other_pregnancy",
+   "text": "Placenta previa occurs when the placenta covers part or all of the cervix, often causing painless bright red bleeding late in pregnancy."
+  },
+  {
+   "id": "S4-18",
+   "group": "other_pregnancy",
+   "text": "Hyperemesis gravidarum is persistent, intense vomiting in pregnancy that can lead to dehydration, weight loss and hospital admission."
+  },
+  {
+   "id": "S4-19",
+   "group": "other_pregnancy",
+   "text": "An ectopic pregnancy happens when a fertilized egg implants outside the uterus, most often in one of the fallopian tubes."
+  },
+  {
+   "id": "S4-20",
+   "group": "other_pregnancy",
+   "text": "Preterm labor is defined as regular contractions that open the cervix before 37 completed weeks of pregnancy."
+  },
+  {
+   "id": "S4-21",
+   "group": "other_pregnancy",
+   "text": "Rh incompatibility can occur when an Rh-negative mother carries an Rh-positive baby, and an injection of anti-D immunoglobulin helps prevent problems."
+  },
+  {
+   "id": "S4-22",
+   "group": "other_pregnancy",
+   "text": "Morning sickness affects most pregnant women during the first trimester and usually eases by the fourteenth to sixteenth week."
+  },
+  {
+   "id": "S4-23",
+   "group": "other_pregnancy",
+   "text": "Women with gestational diabetes are often advised to check their blood sugar several times a day and follow a balanced eating plan."
+  },
+  {
+   "id": "S4-24",
+   "group": "other_pregnancy",
+   "text": "A ruptured ectopic pregnancy is a medical emergency that can cause sudden abdominal pain, shoulder tip pain and internal bleeding."
+  },
+  {
+   "id": "S4-25",
+   "group": "other_pregnancy",
+   "text": "Placenta previa is usually found on a routine ultrasound scan, and many cases resolve as the uterus grows later in pregnancy."
+  },
+  {
+   "id": "S4-26",
+   "group": "other_pregnancy",
+   "text": "Ginger, small frequent meals and plenty of rest are common home remedies suggested for morning sickness in early pregnancy."
+  },
+  {
+   "id": "S4-27",
+   "group": "other_pregnancy",
+   "text": "Corticosteroid injections are often given during preterm labor to help the baby's lungs mature before birth."
+  },
+  {
+   "id": "S4-28",
+   "group": "other_pregnancy",
+   "text": "Hyperemesis gravidarum is treated with intravenous fluids, anti-sickness medicines and vitamin supplements such as thiamine."
+  },
+  {
+   "id": "S4-29",
+   "group": "other_pregnancy",
+   "text": "In Rh incompatibility, the mother's antibodies can cross the placenta and destroy the baby's red blood cells, causing anemia."
+  },
+  {
+   "id": "S4-30",
+   "group": "other_pregnancy",
+   "text": "Gestational diabetes usually disappears after the birth, but it raises a woman's risk of developing type 2 diabetes later in life."
+  },
+  {
+   "id": "S4-31",
+   "group": "nonpregnancy_htn",
+   "text": "High blood pressure, or hypertension, is diagnosed when readings are consistently 130/80 mmHg or higher, according to current American guidelines."
+  },
+  {
+   "id": "S4-32",
+   "group": "nonpregnancy_htn",
+   "text": "Often called the silent killer, hypertension usually causes no symptoms yet greatly raises the risk of heart attack and stroke."
+  },
+  {
+   "id": "S4-33",
+   "group": "nonpregnancy_htn",
+   "text": "Cutting back on salt, exercising regularly, limiting alcohol and losing excess weight can all help lower blood pressure in adults."
+  },
+  {
+   "id": "S4-34",
+   "group": "nonpregnancy_htn",
+   "text": "ACE inhibitors, calcium channel blockers and thiazide diuretics are common first-line medicines for treating high blood pressure."
+  },
+  {
+   "id": "S4-35",
+   "group": "nonpregnancy_htn",
+   "text": "A hypertensive crisis is a sudden rise in blood pressure above 180/120 mmHg that may damage the heart, brain or kidneys."
+  },
+  {
+   "id": "S4-36",
+   "group": "nonpregnancy_htn",
+   "text": "Blood pressure tends to rise with age as arteries stiffen, so many older adults develop isolated systolic hypertension."
+  },
+  {
+   "id": "S4-37",
+   "group": "nonpregnancy_htn",
+   "text": "Home blood pressure monitors let patients track readings between doctor visits and help detect white coat hypertension."
+  },
+  {
+   "id": "S4-38",
+   "group": "nonpregnancy_htn",
+   "text": "Long-standing high blood pressure is a major cause of chronic kidney disease and heart failure in adults."
+  },
+  {
+   "id": "S4-39",
+   "group": "nonpregnancy_htn",
+   "text": "Secondary hypertension results from an underlying condition such as kidney disease, an adrenal tumor or sleep apnea."
+  },
+  {
+   "id": "S4-40",
+   "group": "nonpregnancy_htn",
+   "text": "The DASH diet, rich in fruits, vegetables and low-fat dairy, has been shown to lower systolic blood pressure by several points."
+  }
+ ]
+}

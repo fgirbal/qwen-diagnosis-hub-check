@@ -1,0 +1,6 @@
+=== 2026-10-19 23:59:00 waiting for the 8-bit download (free disk 49 GiB)
+=== 2026-10-20 00:55:03 8-bit download process finished; verifying / resuming
+Fetching 17 files:   0%|          | 0/17 [00:00<?, ?it/s]Fetching 17 files: 100%|██████████| 17/17 [00:00<00:00, 5701.06it/s]
+downloaded /Users/francisco/.cache/huggingface/hub/models--mlx-community--Qwen3-32B-8bit/snapshots/916c25b033bc96694567ad50c60ab4759a21bad2
+=== 2026-10-20 07:26:54 8-bit pipeline exit code 0
+=== 2026-10-20 07:26:54 finished (no bf16 needed)

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the blog post below."
+title: "How Targeted Is the Preeclampsia Diagnosis Hub? Code, pre-registration and results"
+abstract: >-
+  A pre-registered test of whether four MLP neurons in Qwen3-32B, described as a preeclampsia "diagnosis hub",
+  track the diagnosis across 120 clinical cases and 40 sentences, against activation-matched random neurons.
+type: software
+license: MIT
+authors:
+  - family-names: Eiras
+    given-names: Francisco
+repository-code: "https://github.com/fgirbal/qwen-diagnosis-hub-check"
+url: "https://fgirbal.github.io/blog/preeclampsia-hub/"
+date-released: 2026-10-21
+keywords:
+  - interpretability
+  - mechanistic interpretability
+  - language models
+  - Qwen3
+  - pre-registration
+preferred-citation:
+  type: blog
+  title: "How targeted is the preeclampsia diagnosis hub?"
+  authors:
+    - family-names: Eiras
+      given-names: Francisco
+  year: 2026
+  month: 10
+  url: "https://fgirbal.github.io/blog/preeclampsia-hub/"

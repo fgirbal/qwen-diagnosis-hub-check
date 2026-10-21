@@ -1,0 +1,1482 @@
+{
+ "S3-26": {
+  "set": "S3",
+  "intended": "renal colic from a ureteric stone",
+  "judge_dx": "Renal colic (ureteral stone)",
+  "confidence": 5,
+  "note": "Colicky flank-to-groin pain, hematuria, restless; BP rise from pain.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-05": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S1-19": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension >=20 weeks with 2+ proteinuria, no severe features.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "24 wk, BP 146/92 and 148/94, 2+ proteinuria."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-10": {
+  "set": "S2",
+  "intended": "biliary colic",
+  "judge_dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial RUQ pain, normal BP, labs and white count.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-10": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S1-22": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension at 22 weeks with PCR >=0.3; chronic hypertension possible.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "22 wk, BP 142/92 twice, UPCR 0.4 (above 0.3 threshold)."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-02": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Late-pregnancy hypertension with facial/hand edema; proteinuria not given.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "33 wk, BP 158/106, new facial/hand puffiness."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-39": {
+  "set": "S2",
+  "intended": "acute pyelonephritis",
+  "judge_dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, dysuria, CVA tenderness, nitrites in pregnancy.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S0-08": {
+  "set": "S0",
+  "intended": "preeclampsia",
+  "judge_dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-26": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe-range BP with creatinine rise above 1.1 mg/dL.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "36 wk, BP 168/106, new creatinine rise to 1.3 (renal insufficiency)."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-05": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe-range BP with creatinine doubling.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "30 wk, BP 162/104, creatinine doubled 0.6 to 1.3."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-30": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 5,
+  "note": "BP 160/110 with 3+ proteinuria.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "29 wk, BP 160/110, 3+ proteinuria."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-39": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension, edema, 2+ proteinuria after 20 weeks.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "27 wk, BP 152/96, 2+ protein, new face/hand swelling."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-30": {
+  "set": "S3",
+  "intended": "biliary colic",
+  "judge_dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Recurrent postprandial RUQ pain, normal labs and white count.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-37": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe hypertension with pulmonary edema and raised creatinine.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "30 wk, BP 166/104, pulmonary edema signs, creatinine 1.2."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-19": {
+  "set": "S2",
+  "intended": "acute hepatitis A",
+  "judge_dx": "Acute viral hepatitis A",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >2000, raw shellfish exposure; hepatitis E possible.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-12": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension with marked edema at term; gestational hypertension possible.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "38 wk, BP 150/100, marked face/hand swelling; edema-only support."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-31": {
+  "set": "S2",
+  "intended": "biliary colic",
+  "judge_dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial RUQ pain, normal BP and labs.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S0-09": {
+  "set": "S0",
+  "intended": "preeclampsia",
+  "judge_dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-21": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension and new facial/hand edema at 25 weeks.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "25 wk, BP 152/98, marked new facial/hand swelling; edema-only support."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-17": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 32 weeks with PCR 0.5.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "32 wk, BP 150/102, UPCR 0.5."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-09": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe BP with dyspnea and basal crackles: pulmonary edema.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "29 wk, BP 164/108, dyspnea with bibasilar crackles (pulmonary edema)."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-13": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S3-08": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S0-06": {
+  "set": "S0",
+  "intended": "preeclampsia",
+  "judge_dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-35": {
+  "set": "S2",
+  "intended": "acute pyelonephritis",
+  "judge_dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, CVA tenderness, dysuria, nitrites.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-16": {
+  "set": "S3",
+  "intended": "acute cholecystitis",
+  "judge_dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, RUQ pain, Murphy's sign, leukocytosis.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-21": {
+  "set": "S3",
+  "intended": "lupus nephritis (systemic lupus erythematosus)",
+  "judge_dx": "Lupus nephritis (SLE)",
+  "confidence": 5,
+  "note": "Arthralgia, photosensitive rash, nephrotic-range proteinuria, anti-dsDNA positive.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-15": {
+  "set": "S2",
+  "intended": "acute appendicitis",
+  "judge_dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Fever, leukocytosis, localized right-sided abdominal tenderness in pregnancy.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-36": {
+  "set": "S2",
+  "intended": "simple urinary tract infection",
+  "judge_dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile, normal BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-38": {
+  "set": "S2",
+  "intended": "acute appendicitis",
+  "judge_dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Fever, leukocytosis, localized right-sided abdominal tenderness in pregnancy.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-05": {
+  "set": "S2",
+  "intended": "biliary colic",
+  "judge_dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial RUQ pain easing; normal labs and BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-18": {
+  "set": "S2",
+  "intended": "acute cholecystitis",
+  "judge_dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, constant RUQ pain, Murphy's sign, normal BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-23": {
+  "set": "S2",
+  "intended": "acute hepatitis A",
+  "judge_dx": "Acute viral hepatitis A",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >1700, restaurant outbreak exposure.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-09": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S2-16": {
+  "set": "S2",
+  "intended": "simple urinary tract infection",
+  "judge_dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-27": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 28 weeks with PCR 0.7.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "28 wk, BP 152/96 twice, UPCR 0.7."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-01": {
+  "set": "S2",
+  "intended": "acute cholecystitis",
+  "judge_dx": "Acute cholecystitis",
+  "confidence": 4,
+  "note": "Fever, positive Murphy's sign, normal BP; headache incidental.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-01": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S1-16": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "BP 172/112 with dyspnea and crackles: pulmonary edema.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "31 wk, BP 172/112, new dyspnea and bibasilar crackles (pulmonary edema)."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-24": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension with progressive edema at term; gestational hypertension possible.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "39 wk, BP 150/100, marked face/hand swelling; edema-only support."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S0-02": {
+  "set": "S0",
+  "intended": "preeclampsia",
+  "judge_dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-11": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe-range BP with creatinine rise 0.5 to 1.2.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "33 wk, BP 160/105, creatinine rise 0.5 to 1.2."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S0-07": {
+  "set": "S0",
+  "intended": "preeclampsia",
+  "judge_dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-07": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension with rapid face/finger swelling; proteinuria not given.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "31 wk, BP 154/102 twice, marked face/finger swelling."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-19": {
+  "set": "S3",
+  "intended": "pheochromocytoma",
+  "judge_dx": "Pheochromocytoma",
+  "confidence": 5,
+  "note": "Paroxysmal headache, palpitations, sweats, raised metanephrines.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-09": {
+  "set": "S2",
+  "intended": "acute hepatitis A",
+  "judge_dx": "Acute viral hepatitis A",
+  "confidence": 4,
+  "note": "Jaundice, transaminases 1800, raw shellfish; normal BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-03": {
+  "set": "S2",
+  "intended": "acute pyelonephritis",
+  "judge_dx": "Acute pyelonephritis",
+  "confidence": 4,
+  "note": "Fever, dysuria, CVA tenderness, nitrites; RUQ pain from flank.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-28": {
+  "set": "S2",
+  "intended": "acute hepatitis A",
+  "judge_dx": "Acute viral hepatitis (A or E)",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >2500 after untreated water; hepatitis E severe in pregnancy.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-27": {
+  "set": "S2",
+  "intended": "acute pyelonephritis",
+  "judge_dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, dysuria, CVA tenderness, nitrites.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-04": {
+  "set": "S2",
+  "intended": "acute appendicitis",
+  "judge_dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Periumbilical onset migrating, fever, leukocytosis; appendix displaced upward in pregnancy.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-37": {
+  "set": "S2",
+  "intended": "biliary colic",
+  "judge_dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial cramping RUQ pain, normal labs and BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-12": {
+  "set": "S2",
+  "intended": "acute cholecystitis",
+  "judge_dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, constant RUQ pain, Murphy's sign.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-14": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S1-10": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 35 weeks with PCR 0.9.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "35 wk, BP 156/100 sustained, UPCR 0.9."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-13": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 26 weeks with 3+ proteinuria.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "26 wk, BP 148/98, 3+ proteinuria."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-06": {
+  "set": "S2",
+  "intended": "acute cholecystitis",
+  "judge_dx": "Acute cholecystitis",
+  "confidence": 4,
+  "note": "Fever, positive Murphy's sign, normal BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-20": {
+  "set": "S3",
+  "intended": "choledocholithiasis",
+  "judge_dx": "Choledocholithiasis",
+  "confidence": 4,
+  "note": "Jaundice, dilated CBD, cholestatic labs; no fever so no cholangitis.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-15": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension persisting 4 hours with new edema; gestational hypertension possible.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "30 wk, BP 144/96 persistent, new face/hand swelling; edema-only support."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-17": {
+  "set": "S2",
+  "intended": "biliary colic",
+  "judge_dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial RUQ cramps resolving within 2 hours, normal BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-30": {
+  "set": "S2",
+  "intended": "simple urinary tract infection",
+  "judge_dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-27": {
+  "set": "S3",
+  "intended": "primary hyperaldosteronism",
+  "judge_dx": "Primary aldosteronism",
+  "confidence": 5,
+  "note": "Resistant hypertension, hypokalemia, suppressed renin.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-29": {
+  "set": "S2",
+  "intended": "acute cholecystitis",
+  "judge_dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, RUQ pain, Murphy's sign, normal BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-25": {
+  "set": "S3",
+  "intended": "acute pyelonephritis",
+  "judge_dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, chills, flank pain, dysuria, pyuria; BP rise from illness.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-14": {
+  "set": "S2",
+  "intended": "acute hepatitis A",
+  "judge_dx": "Acute viral hepatitis (A or E)",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >1500 after India travel; hepatitis E in pregnancy.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-18": {
+  "set": "S3",
+  "intended": "hypertensive urgency after stopping antihypertensive medication",
+  "judge_dx": "Hypertensive urgency",
+  "confidence": 4,
+  "note": "Severe BP after stopping medication; normal neurology and kidney function.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-04": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 28 weeks with PCR 0.6.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "28 wk, BP 146/94 repeated, UPCR 0.6."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-04": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S2-32": {
+  "set": "S2",
+  "intended": "acute appendicitis",
+  "judge_dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Fever, leukocytosis, localized right-sided abdominal tenderness in pregnancy.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-29": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension with oliguria, a severe feature.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "33 wk, BP 156/102, oliguria about 300 mL/24h."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-15": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S2-34": {
+  "set": "S2",
+  "intended": "acute hepatitis A",
+  "judge_dx": "Acute viral hepatitis (A or E)",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >1600 after Guatemala travel.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-13": {
+  "set": "S2",
+  "intended": "acute pyelonephritis",
+  "judge_dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, CVA tenderness, dysuria, nitrites.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-29": {
+  "set": "S3",
+  "intended": "acute intermittent porphyria",
+  "judge_dx": "Acute intermittent porphyria",
+  "confidence": 5,
+  "note": "Fasting trigger, abdominal pain, tachycardia, hypertension, reddish-brown urine, soft abdomen.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-36": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension, 2+ proteinuria, edema at 36 weeks.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "36 wk, BP 148/98, 2+ protein, new hand swelling."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-17": {
+  "set": "S3",
+  "intended": "post-streptococcal glomerulonephritis",
+  "judge_dx": "Post-streptococcal glomerulonephritis",
+  "confidence": 5,
+  "note": "Nephritic picture, red cell casts, 2 weeks after pharyngitis.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-06": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S2-25": {
+  "set": "S2",
+  "intended": "simple urinary tract infection",
+  "judge_dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile, normal BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S0-05": {
+  "set": "S0",
+  "intended": "preeclampsia",
+  "judge_dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-38": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension, 3+ proteinuria and edema at term.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "39 wk, BP 154/102, 3+ proteinuria, new face/hand swelling."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-03": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "BP 168/110 with dyspnea and crackles: pulmonary edema.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "32 wk, BP 168/110, new dyspnea and bibasilar crackles (pulmonary edema)."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-24": {
+  "set": "S2",
+  "intended": "acute pyelonephritis",
+  "judge_dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, dysuria, CVA tenderness, nitrites.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-40": {
+  "set": "S2",
+  "intended": "simple urinary tract infection",
+  "judge_dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-11": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S1-33": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "New hypertension and PCR 0.8 at 21 weeks; renal disease/molar considered.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "21 wk, new BP 150/98, UPCR 0.8; early but beyond 20 weeks."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-21": {
+  "set": "S2",
+  "intended": "acute appendicitis",
+  "judge_dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Fever, leukocytosis, localized right-sided abdominal tenderness in pregnancy.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S0-03": {
+  "set": "S0",
+  "intended": "preeclampsia",
+  "judge_dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-34": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe BP, proteinuria, creatinine rise to 1.1 from 0.6.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "37 wk, BP 162/108, 2+ proteinuria, creatinine rise."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-02": {
+  "set": "S2",
+  "intended": "acute hepatitis A",
+  "judge_dx": "Acute viral hepatitis (A or E)",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >2000 after Peru travel; normal BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-14": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe-range BP with oliguria.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "35 wk, BP 166/108, oliguria (60 mL in 4 hours)."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-07": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S2-08": {
+  "set": "S2",
+  "intended": "acute pyelonephritis",
+  "judge_dx": "Acute pyelonephritis",
+  "confidence": 4,
+  "note": "Fever, dysuria, flank tenderness, nitrites; normal BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-20": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension with falling urine output (oliguria).",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "38 wk, BP 158/102, oliguria 20 mL/h."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-23": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "BP 176/114 with new dyspnea and crackles: pulmonary edema.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "34 wk, BP 176/114, new dyspnea and bibasilar crackles (pulmonary edema)."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-12": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S1-40": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension, PCR 1.1, oliguria.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "31 wk, BP 158/100, UPCR 1.1, oliguria."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-01": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension on two readings with 3+ proteinuria.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "34 wk, BP 152/100 twice, 3+ proteinuria."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S0-10": {
+  "set": "S0",
+  "intended": "preeclampsia",
+  "judge_dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-31": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension, edema and oliguria at 35 weeks.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "35 wk, BP 158/104, facial/hand swelling, oliguria."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-22": {
+  "set": "S2",
+  "intended": "biliary colic",
+  "judge_dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial RUQ cramps settling, normal BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-22": {
+  "set": "S3",
+  "intended": "alcoholic hepatitis",
+  "judge_dx": "Alcoholic hepatitis",
+  "confidence": 4,
+  "note": "Heavy alcohol use, jaundice, AST:ALT ratio above 2.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-33": {
+  "set": "S2",
+  "intended": "acute cholecystitis",
+  "judge_dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, constant RUQ pain, Murphy's sign, normal BP.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-07": {
+  "set": "S2",
+  "intended": "acute appendicitis",
+  "judge_dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Periumbilical onset, fever, leukocytosis; RUQ pain from displaced appendix.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-23": {
+  "set": "S3",
+  "intended": "subarachnoid hemorrhage",
+  "judge_dx": "Subarachnoid hemorrhage",
+  "confidence": 5,
+  "note": "Thunderclap headache on exertion, vomiting, meningism.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-24": {
+  "set": "S3",
+  "intended": "acute pancreatitis",
+  "judge_dx": "Acute pancreatitis",
+  "confidence": 5,
+  "note": "Epigastric pain to back, vomiting, lipase 8x normal.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-28": {
+  "set": "S3",
+  "intended": "hypertensive encephalopathy",
+  "judge_dx": "Hypertensive encephalopathy",
+  "confidence": 4,
+  "note": "Severe BP, confusion, headache, vomiting; CT negative, no focal deficit.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S0-01": {
+  "set": "S0",
+  "intended": "preeclampsia",
+  "judge_dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-08": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at term with 2+ proteinuria on catheter sample.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "37 wk, BP 148/96, 2+ proteinuria on catheter sample."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-35": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension twice with sudden facial/finger swelling; proteinuria not given.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "34 wk, BP 156/100 twice, sudden face/finger swelling; edema-only support."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S0-04": {
+  "set": "S0",
+  "intended": "preeclampsia",
+  "judge_dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum.",
+  "J1_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-02": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S1-25": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 30 weeks with 3+ proteinuria.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "30 wk, BP 156/106, 3+ proteinuria."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-28": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension and facial/hand edema at 23 weeks.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia",
+   "reason": "23 wk, BP 148/98, new facial/hand swelling; weak but supportive, early gestation."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-20": {
+  "set": "S2",
+  "intended": "acute cholecystitis",
+  "judge_dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, constant RUQ pain, Murphy's sign.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-11": {
+  "set": "S2",
+  "intended": "simple urinary tract infection",
+  "judge_dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-18": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension with creatinine doubled from baseline.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "27 wk, BP 154/104, creatinine doubled from baseline."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S1-06": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension with oliguria under 400 mL per day.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "36 wk, BP 150/98, oliguria under 400 mL/24h."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S3-03": {
+  "set": "S3",
+  "intended": "acute cholecystitis (symptomatic gallstone disease)",
+  "judge_dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental.",
+  "J1_pass": false,
+  "J4_pass": true,
+  "pass": false
+ },
+ "S1-32": {
+  "set": "S1",
+  "intended": "preeclampsia",
+  "judge_dx": "Preeclampsia with severe features",
+  "confidence": 5,
+  "note": "Twins, severe BP, pulmonary edema, 3+ proteinuria.",
+  "J1_pass": true,
+  "J2": {
+   "same_picture": "yes",
+   "dx": "Preeclampsia with severe features",
+   "reason": "Twins 32 wk, BP 174/112, pulmonary edema signs, 3+ protein."
+  },
+  "J2_pass": true,
+  "J4_pass": true,
+  "pass": true
+ },
+ "S2-26": {
+  "set": "S2",
+  "intended": "acute appendicitis",
+  "judge_dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Fever, leukocytosis, localized right-sided abdominal tenderness in pregnancy.",
+  "J1_pass": true,
+  "J3_pass": true,
+  "J4_pass": true,
+  "pass": true
+ }
+}

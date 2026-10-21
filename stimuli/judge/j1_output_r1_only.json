@@ -1,0 +1,17 @@
+{
+"W001": {"dx": "Acute viral hepatitis (A/E)", "confidence": 4, "note": "Travel exposure, jaundice, very high transaminases, not pregnant."},
+"W002": {"dx": "Biliary colic (symptomatic cholelithiasis)", "confidence": 4, "note": "Post-fatty-meal RUQ pain, afebrile, normal labs; BP likely incidental."},
+"W003": {"dx": "Acute hepatitis A", "confidence": 5, "note": "Raw shellfish, jaundice, transaminases in the thousands."},
+"W004": {"dx": "Biliary colic (symptomatic cholelithiasis)", "confidence": 4, "note": "Fatty meal trigger, normal enzymes and WBC, no fever."},
+"W005": {"dx": "Acute hepatitis A", "confidence": 4, "note": "Shared-meal contact with same illness, jaundice, very high ALT/AST."},
+"W006": {"dx": "Acute cholecystitis", "confidence": 5, "note": "Fever, positive Murphy's sign, RUQ pain, mild enzyme rise."},
+"W007": {"dx": "Acute cholecystitis", "confidence": 5, "note": "Fever, Murphy's sign, RUQ pain."},
+"W008": {"dx": "Acute cholecystitis", "confidence": 5, "note": "Fever, Murphy's sign, RUQ pain."},
+"W009": {"dx": "Biliary colic (symptomatic cholelithiasis)", "confidence": 4, "note": "Postprandial RUQ pain, normal labs, afebrile."},
+"W010": {"dx": "Acute cholecystitis", "confidence": 5, "note": "Fever, Murphy's sign, RUQ pain."},
+"W011": {"dx": "Acute cholecystitis", "confidence": 5, "note": "Fever, Murphy's sign, RUQ pain."},
+"W012": {"dx": "Biliary colic (symptomatic cholelithiasis)", "confidence": 4, "note": "Fatty meal trigger, normal labs; pregnancy excluded."},
+"W013": {"dx": "Acute cholecystitis", "confidence": 5, "note": "Fever, Murphy's sign, RUQ pain."},
+"W014": {"dx": "Acute cholecystitis", "confidence": 5, "note": "Fever, Murphy's sign, RUQ pain."},
+"W015": {"dx": "Acute viral hepatitis (A/E)", "confidence": 4, "note": "Untreated water exposure, jaundice, transaminases in the thousands."}
+}

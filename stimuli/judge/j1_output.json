@@ -1,0 +1,602 @@
+{
+ "V001": {
+  "dx": "Renal colic (ureteral stone)",
+  "confidence": 5,
+  "note": "Colicky flank-to-groin pain, hematuria, restless; BP rise from pain."
+ },
+ "V002": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V003": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension >=20 weeks with 2+ proteinuria, no severe features."
+ },
+ "V004": {
+  "dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial RUQ pain, normal BP, labs and white count."
+ },
+ "V005": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V006": {
+  "dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension at 22 weeks with PCR >=0.3; chronic hypertension possible."
+ },
+ "V007": {
+  "dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Late-pregnancy hypertension with facial/hand edema; proteinuria not given."
+ },
+ "V008": {
+  "dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, dysuria, CVA tenderness, nitrites in pregnancy."
+ },
+ "V009": {
+  "dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum."
+ },
+ "V010": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe-range BP with creatinine rise above 1.1 mg/dL."
+ },
+ "V011": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe-range BP with creatinine doubling."
+ },
+ "V012": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 5,
+  "note": "BP 160/110 with 3+ proteinuria."
+ },
+ "V013": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension, edema, 2+ proteinuria after 20 weeks."
+ },
+ "V014": {
+  "dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Recurrent postprandial RUQ pain, normal labs and white count."
+ },
+ "V015": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe hypertension with pulmonary edema and raised creatinine."
+ },
+ "V016": {
+  "dx": "Acute viral hepatitis A",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >2000, raw shellfish exposure; hepatitis E possible."
+ },
+ "V017": {
+  "dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension with marked edema at term; gestational hypertension possible."
+ },
+ "V018": {
+  "dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial RUQ pain, normal BP and labs."
+ },
+ "V019": {
+  "dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum."
+ },
+ "V020": {
+  "dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension and new facial/hand edema at 25 weeks."
+ },
+ "V021": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 32 weeks with PCR 0.5."
+ },
+ "V022": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe BP with dyspnea and basal crackles: pulmonary edema."
+ },
+ "V023": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V024": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V025": {
+  "dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum."
+ },
+ "V026": {
+  "dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, CVA tenderness, dysuria, nitrites."
+ },
+ "V027": {
+  "dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, RUQ pain, Murphy's sign, leukocytosis."
+ },
+ "V028": {
+  "dx": "Lupus nephritis (SLE)",
+  "confidence": 5,
+  "note": "Arthralgia, photosensitive rash, nephrotic-range proteinuria, anti-dsDNA positive."
+ },
+ "V029": {
+  "dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Fever, leukocytosis, localized right-sided abdominal tenderness in pregnancy."
+ },
+ "V030": {
+  "dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile, normal BP."
+ },
+ "V031": {
+  "dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Fever, leukocytosis, localized right-sided abdominal tenderness in pregnancy."
+ },
+ "V032": {
+  "dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial RUQ pain easing; normal labs and BP."
+ },
+ "V033": {
+  "dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, constant RUQ pain, Murphy's sign, normal BP."
+ },
+ "V034": {
+  "dx": "Acute viral hepatitis A",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >1700, restaurant outbreak exposure."
+ },
+ "V035": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V036": {
+  "dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile."
+ },
+ "V037": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 28 weeks with PCR 0.7."
+ },
+ "V038": {
+  "dx": "Acute cholecystitis",
+  "confidence": 4,
+  "note": "Fever, positive Murphy's sign, normal BP; headache incidental."
+ },
+ "V039": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V040": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "BP 172/112 with dyspnea and crackles: pulmonary edema."
+ },
+ "V041": {
+  "dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension with progressive edema at term; gestational hypertension possible."
+ },
+ "V042": {
+  "dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum."
+ },
+ "V043": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe-range BP with creatinine rise 0.5 to 1.2."
+ },
+ "V044": {
+  "dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum."
+ },
+ "V045": {
+  "dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension with rapid face/finger swelling; proteinuria not given."
+ },
+ "V046": {
+  "dx": "Pheochromocytoma",
+  "confidence": 5,
+  "note": "Paroxysmal headache, palpitations, sweats, raised metanephrines."
+ },
+ "V047": {
+  "dx": "Acute viral hepatitis A",
+  "confidence": 4,
+  "note": "Jaundice, transaminases 1800, raw shellfish; normal BP."
+ },
+ "V048": {
+  "dx": "Acute pyelonephritis",
+  "confidence": 4,
+  "note": "Fever, dysuria, CVA tenderness, nitrites; RUQ pain from flank."
+ },
+ "V049": {
+  "dx": "Acute viral hepatitis (A or E)",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >2500 after untreated water; hepatitis E severe in pregnancy."
+ },
+ "V050": {
+  "dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, dysuria, CVA tenderness, nitrites."
+ },
+ "V051": {
+  "dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Periumbilical onset migrating, fever, leukocytosis; appendix displaced upward in pregnancy."
+ },
+ "V052": {
+  "dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial cramping RUQ pain, normal labs and BP."
+ },
+ "V053": {
+  "dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, constant RUQ pain, Murphy's sign."
+ },
+ "V054": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V055": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 35 weeks with PCR 0.9."
+ },
+ "V056": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 26 weeks with 3+ proteinuria."
+ },
+ "V057": {
+  "dx": "Acute cholecystitis",
+  "confidence": 4,
+  "note": "Fever, positive Murphy's sign, normal BP."
+ },
+ "V058": {
+  "dx": "Choledocholithiasis",
+  "confidence": 4,
+  "note": "Jaundice, dilated CBD, cholestatic labs; no fever so no cholangitis."
+ },
+ "V059": {
+  "dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension persisting 4 hours with new edema; gestational hypertension possible."
+ },
+ "V060": {
+  "dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial RUQ cramps resolving within 2 hours, normal BP."
+ },
+ "V061": {
+  "dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile."
+ },
+ "V062": {
+  "dx": "Primary aldosteronism",
+  "confidence": 5,
+  "note": "Resistant hypertension, hypokalemia, suppressed renin."
+ },
+ "V063": {
+  "dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, RUQ pain, Murphy's sign, normal BP."
+ },
+ "V064": {
+  "dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, chills, flank pain, dysuria, pyuria; BP rise from illness."
+ },
+ "V065": {
+  "dx": "Acute viral hepatitis (A or E)",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >1500 after India travel; hepatitis E in pregnancy."
+ },
+ "V066": {
+  "dx": "Hypertensive urgency",
+  "confidence": 4,
+  "note": "Severe BP after stopping medication; normal neurology and kidney function."
+ },
+ "V067": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 28 weeks with PCR 0.6."
+ },
+ "V068": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V069": {
+  "dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Fever, leukocytosis, localized right-sided abdominal tenderness in pregnancy."
+ },
+ "V070": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension with oliguria, a severe feature."
+ },
+ "V071": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V072": {
+  "dx": "Acute viral hepatitis (A or E)",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >1600 after Guatemala travel."
+ },
+ "V073": {
+  "dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, CVA tenderness, dysuria, nitrites."
+ },
+ "V074": {
+  "dx": "Acute intermittent porphyria",
+  "confidence": 5,
+  "note": "Fasting trigger, abdominal pain, tachycardia, hypertension, reddish-brown urine, soft abdomen."
+ },
+ "V075": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension, 2+ proteinuria, edema at 36 weeks."
+ },
+ "V076": {
+  "dx": "Post-streptococcal glomerulonephritis",
+  "confidence": 5,
+  "note": "Nephritic picture, red cell casts, 2 weeks after pharyngitis."
+ },
+ "V077": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V078": {
+  "dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile, normal BP."
+ },
+ "V079": {
+  "dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum."
+ },
+ "V080": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension, 3+ proteinuria and edema at term."
+ },
+ "V081": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "BP 168/110 with dyspnea and crackles: pulmonary edema."
+ },
+ "V082": {
+  "dx": "Acute pyelonephritis",
+  "confidence": 5,
+  "note": "Fever, dysuria, CVA tenderness, nitrites."
+ },
+ "V083": {
+  "dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile."
+ },
+ "V084": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V085": {
+  "dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "New hypertension and PCR 0.8 at 21 weeks; renal disease/molar considered."
+ },
+ "V086": {
+  "dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Fever, leukocytosis, localized right-sided abdominal tenderness in pregnancy."
+ },
+ "V087": {
+  "dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum."
+ },
+ "V088": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe BP, proteinuria, creatinine rise to 1.1 from 0.6."
+ },
+ "V089": {
+  "dx": "Acute viral hepatitis (A or E)",
+  "confidence": 4,
+  "note": "Jaundice, transaminases >2000 after Peru travel; normal BP."
+ },
+ "V090": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Severe-range BP with oliguria."
+ },
+ "V091": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V092": {
+  "dx": "Acute pyelonephritis",
+  "confidence": 4,
+  "note": "Fever, dysuria, flank tenderness, nitrites; normal BP."
+ },
+ "V093": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension with falling urine output (oliguria)."
+ },
+ "V094": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "BP 176/114 with new dyspnea and crackles: pulmonary edema."
+ },
+ "V095": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V096": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension, PCR 1.1, oliguria."
+ },
+ "V097": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension on two readings with 3+ proteinuria."
+ },
+ "V098": {
+  "dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum."
+ },
+ "V099": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension, edema and oliguria at 35 weeks."
+ },
+ "V100": {
+  "dx": "Biliary colic",
+  "confidence": 4,
+  "note": "Postprandial RUQ cramps settling, normal BP."
+ },
+ "V101": {
+  "dx": "Alcoholic hepatitis",
+  "confidence": 4,
+  "note": "Heavy alcohol use, jaundice, AST:ALT ratio above 2."
+ },
+ "V102": {
+  "dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, constant RUQ pain, Murphy's sign, normal BP."
+ },
+ "V103": {
+  "dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Periumbilical onset, fever, leukocytosis; RUQ pain from displaced appendix."
+ },
+ "V104": {
+  "dx": "Subarachnoid hemorrhage",
+  "confidence": 5,
+  "note": "Thunderclap headache on exertion, vomiting, meningism."
+ },
+ "V105": {
+  "dx": "Acute pancreatitis",
+  "confidence": 5,
+  "note": "Epigastric pain to back, vomiting, lipase 8x normal."
+ },
+ "V106": {
+  "dx": "Hypertensive encephalopathy",
+  "confidence": 4,
+  "note": "Severe BP, confusion, headache, vomiting; CT negative, no focal deficit."
+ },
+ "V107": {
+  "dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum."
+ },
+ "V108": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at term with 2+ proteinuria on catheter sample."
+ },
+ "V109": {
+  "dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension twice with sudden facial/finger swelling; proteinuria not given."
+ },
+ "V110": {
+  "dx": "HELLP syndrome / preeclampsia severe",
+  "confidence": 4,
+  "note": "Pregnant, hypertensive, RUQ pain, headache, raised LFTs; severe-feature or HELLP spectrum."
+ },
+ "V111": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V112": {
+  "dx": "Preeclampsia",
+  "confidence": 4,
+  "note": "Hypertension at 30 weeks with 3+ proteinuria."
+ },
+ "V113": {
+  "dx": "Preeclampsia",
+  "confidence": 3,
+  "note": "Hypertension and facial/hand edema at 23 weeks."
+ },
+ "V114": {
+  "dx": "Acute cholecystitis",
+  "confidence": 5,
+  "note": "Fever, constant RUQ pain, Murphy's sign."
+ },
+ "V115": {
+  "dx": "Acute cystitis",
+  "confidence": 4,
+  "note": "Dysuria, frequency, nitrites, afebrile."
+ },
+ "V116": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension with creatinine doubled from baseline."
+ },
+ "V117": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 4,
+  "note": "Hypertension with oliguria under 400 mL per day."
+ },
+ "V118": {
+  "dx": "Biliary disease (cholecystitis/stones)",
+  "confidence": 2,
+  "note": "Not pregnant; RUQ pain with mild LFTs favors biliary cause; BP likely incidental."
+ },
+ "V119": {
+  "dx": "Preeclampsia with severe features",
+  "confidence": 5,
+  "note": "Twins, severe BP, pulmonary edema, 3+ proteinuria."
+ },
+ "V120": {
+  "dx": "Acute appendicitis",
+  "confidence": 4,
+  "note": "Fever, leukocytosis, localized right-sided abdominal tenderness in pregnancy."
+ }
+}
